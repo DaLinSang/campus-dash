@@ -1,0 +1,102 @@
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.5.8)
+
+2026-10-20T20:37:47.481+08:00  INFO 66746 --- [campus-dash-worker] [           main] c.campusdash.worker.WorkerApplication    : Starting WorkerApplication using Java 23.0.2 with PID 66746 (/Users/haojunpan/Desktop/????/project/ai/ai-agents-from-zero/????-????????/????-????/????/campus-dash-backend/dash-worker/target/dash-worker-1.0.0-SNAPSHOT.jar started by haojunpan in /Users/haojunpan/Desktop/????/project/ai/ai-agents-from-zero/????-????????/????-????/????/campus-dash-backend)
+2026-10-20T20:37:47.483+08:00  INFO 66746 --- [campus-dash-worker] [           main] c.campusdash.worker.WorkerApplication    : No active profile set, falling back to 1 default profile: "default"
+2026-10-20T20:37:48.326+08:00  INFO 66746 --- [campus-dash-worker] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2026-10-20T20:37:48.328+08:00  INFO 66746 --- [campus-dash-worker] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2026-10-20T20:37:48.350+08:00  INFO 66746 --- [campus-dash-worker] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 9 ms. Found 0 Redis repository interfaces.
+2026-10-20T20:37:49.206+08:00  WARN 66746 --- [campus-dash-worker] [           main] i.n.r.d.DnsServerAddressStreamProviders  : Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+2026-10-20T20:37:49.414+08:00  INFO 66746 --- [campus-dash-worker] [           main] org.redisson.Version                     : Redisson 3.22.0
+2026-10-20T20:37:49.568+08:00  INFO 66746 --- [campus-dash-worker] [isson-netty-4-4] o.r.c.pool.MasterPubSubConnectionPool    : 1 connections initialized for 127.0.0.1/127.0.0.1:58581
+2026-10-20T20:37:49.577+08:00  INFO 66746 --- [campus-dash-worker] [sson-netty-4-11] o.r.c.pool.MasterConnectionPool          : 4 connections initialized for 127.0.0.1/127.0.0.1:58581
+2026-10-20T20:37:52.239+08:00  WARN 66746 --- [campus-dash-worker] [           main] s.c.a.AnnotationConfigApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'autoSettleConsumer': Invocation of init method failed
+2026-10-20T20:37:52.258+08:00  INFO 66746 --- [campus-dash-worker] [           main] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2026-10-20T20:37:52.281+08:00 ERROR 66746 --- [campus-dash-worker] [           main] o.s.boot.SpringApplication               : Application run failed
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'autoSettleConsumer': Invocation of init method failed
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.postProcessBeforeInitialization(InitDestroyAnnotationBeanPostProcessor.java:222) ~[spring-beans-6.2.14.jar!/:6.2.14]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyBeanPostProcessorsBeforeInitialization(AbstractAutowireCapableBeanFactory.java:429) ~[spring-beans-6.2.14.jar!/:6.2.14]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1818) ~[spring-beans-6.2.14.jar!/:6.2.14]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:607) ~[spring-beans-6.2.14.jar!/:6.2.14]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:529) ~[spring-beans-6.2.14.jar!/:6.2.14]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:339) ~[spring-beans-6.2.14.jar!/:6.2.14]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:373) ~[spring-beans-6.2.14.jar!/:6.2.14]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:337) ~[spring-beans-6.2.14.jar!/:6.2.14]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202) ~[spring-beans-6.2.14.jar!/:6.2.14]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.instantiateSingleton(DefaultListableBeanFactory.java:1228) ~[spring-beans-6.2.14.jar!/:6.2.14]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingleton(DefaultListableBeanFactory.java:1194) ~[spring-beans-6.2.14.jar!/:6.2.14]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:1130) ~[spring-beans-6.2.14.jar!/:6.2.14]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:990) ~[spring-context-6.2.14.jar!/:6.2.14]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:627) ~[spring-context-6.2.14.jar!/:6.2.14]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:752) ~[spring-boot-3.5.8.jar!/:3.5.8]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:439) ~[spring-boot-3.5.8.jar!/:3.5.8]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318) ~[spring-boot-3.5.8.jar!/:3.5.8]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1361) ~[spring-boot-3.5.8.jar!/:3.5.8]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1350) ~[spring-boot-3.5.8.jar!/:3.5.8]
+	at com.campusdash.worker.WorkerApplication.main(WorkerApplication.java:30) ~[!/:na]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[na:na]
+	at org.springframework.boot.loader.launch.Launcher.launch(Launcher.java:106) ~[dash-worker-1.0.0-SNAPSHOT.jar:na]
+	at org.springframework.boot.loader.launch.Launcher.launch(Launcher.java:64) ~[dash-worker-1.0.0-SNAPSHOT.jar:na]
+	at org.springframework.boot.loader.launch.JarLauncher.main(JarLauncher.java:40) ~[dash-worker-1.0.0-SNAPSHOT.jar:na]
+Caused by: java.lang.IllegalStateException: Expected the service PushConsumerImpl-2 [FAILED] to be RUNNING, but the service has FAILED
+	at org.apache.rocketmq.shaded.com.google.common.util.concurrent.AbstractService.checkCurrentState(AbstractService.java:384) ~[rocketmq-client-java-5.2.0.jar!/:na]
+	at org.apache.rocketmq.shaded.com.google.common.util.concurrent.AbstractService.awaitRunning(AbstractService.java:308) ~[rocketmq-client-java-5.2.0.jar!/:na]
+	at org.apache.rocketmq.shaded.com.google.common.util.concurrent.AbstractIdleService.awaitRunning(AbstractIdleService.java:160) ~[rocketmq-client-java-5.2.0.jar!/:na]
+	at org.apache.rocketmq.client.java.impl.consumer.PushConsumerBuilderImpl.build(PushConsumerBuilderImpl.java:147) ~[rocketmq-client-java-5.2.0.jar!/:na]
+	at com.campusdash.worker.AutoSettleConsumer.start(AutoSettleConsumer.java:80) ~[!/:na]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[na:na]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleMethod.invoke(InitDestroyAnnotationBeanPostProcessor.java:457) ~[spring-beans-6.2.14.jar!/:6.2.14]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleMetadata.invokeInitMethods(InitDestroyAnnotationBeanPostProcessor.java:401) ~[spring-beans-6.2.14.jar!/:6.2.14]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.postProcessBeforeInitialization(InitDestroyAnnotationBeanPostProcessor.java:219) ~[spring-beans-6.2.14.jar!/:6.2.14]
+	... 24 common frames omitted
+Caused by: java.lang.RuntimeException: Failed to fetch topics after 3 attempts
+	at org.apache.rocketmq.client.java.impl.ClientImpl.startUp(ClientImpl.java:203) ~[rocketmq-client-java-5.2.0.jar!/:na]
+	at org.apache.rocketmq.client.java.impl.consumer.PushConsumerImpl.startUp(PushConsumerImpl.java:181) ~[rocketmq-client-java-5.2.0.jar!/:na]
+	at org.apache.rocketmq.shaded.com.google.common.util.concurrent.AbstractIdleService$DelegateService.lambda$doStart$0(AbstractIdleService.java:64) ~[rocketmq-client-java-5.2.0.jar!/:na]
+	at org.apache.rocketmq.shaded.com.google.common.util.concurrent.Callables.lambda$threadRenaming$3(Callables.java:105) ~[rocketmq-client-java-5.2.0.jar!/:na]
+	at java.base/java.lang.Thread.run(Thread.java:1575) ~[na:na]
+Caused by: java.util.concurrent.ExecutionException: org.apache.rocketmq.client.java.exception.NotFoundException: [request-id=c03211f8-ee53-4207-b18d-293d2f559e60, response-code=40402] CODE: 17  DESC: No topic route info in name server for the topic: errand-auto-settle
+For more information, please visit the url, https://rocketmq.apache.org/docs/bestPractice/06FAQ
+	at org.apache.rocketmq.shaded.com.google.common.util.concurrent.AbstractFuture.getDoneValue(AbstractFuture.java:592) ~[rocketmq-client-java-5.2.0.jar!/:na]
+	at org.apache.rocketmq.shaded.com.google.common.util.concurrent.AbstractFuture.get(AbstractFuture.java:571) ~[rocketmq-client-java-5.2.0.jar!/:na]
+	at org.apache.rocketmq.shaded.com.google.common.util.concurrent.FluentFuture$TrustedFuture.get(FluentFuture.java:91) ~[rocketmq-client-java-5.2.0.jar!/:na]
+	at org.apache.rocketmq.client.java.impl.ClientImpl.startUp(ClientImpl.java:193) ~[rocketmq-client-java-5.2.0.jar!/:na]
+	... 4 common frames omitted
+Caused by: org.apache.rocketmq.client.java.exception.NotFoundException: [request-id=c03211f8-ee53-4207-b18d-293d2f559e60, response-code=40402] CODE: 17  DESC: No topic route info in name server for the topic: errand-auto-settle
+For more information, please visit the url, https://rocketmq.apache.org/docs/bestPractice/06FAQ
+	at org.apache.rocketmq.client.java.exception.StatusChecker.check(StatusChecker.java:79) ~[rocketmq-client-java-5.2.0.jar!/:na]
+	at org.apache.rocketmq.client.java.impl.ClientImpl.lambda$fetchTopicRoute0$6(ClientImpl.java:666) ~[rocketmq-client-java-5.2.0.jar!/:na]
+	at org.apache.rocketmq.shaded.com.google.common.util.concurrent.AbstractTransformFuture$AsyncTransformFuture.doTransform(AbstractTransformFuture.java:223) ~[rocketmq-client-java-5.2.0.jar!/:na]
+	at org.apache.rocketmq.shaded.com.google.common.util.concurrent.AbstractTransformFuture$AsyncTransformFuture.doTransform(AbstractTransformFuture.java:210) ~[rocketmq-client-java-5.2.0.jar!/:na]
+	at org.apache.rocketmq.shaded.com.google.common.util.concurrent.AbstractTransformFuture.run(AbstractTransformFuture.java:123) ~[rocketmq-client-java-5.2.0.jar!/:na]
+	at org.apache.rocketmq.shaded.com.google.common.util.concurrent.DirectExecutor.execute(DirectExecutor.java:31) ~[rocketmq-client-java-5.2.0.jar!/:na]
+	at org.apache.rocketmq.shaded.com.google.common.util.concurrent.AbstractFuture.executeListener(AbstractFuture.java:1286) ~[rocketmq-client-java-5.2.0.jar!/:na]
+	at org.apache.rocketmq.shaded.com.google.common.util.concurrent.AbstractFuture.complete(AbstractFuture.java:1055) ~[rocketmq-client-java-5.2.0.jar!/:na]
+	at org.apache.rocketmq.shaded.com.google.common.util.concurrent.AbstractFuture.set(AbstractFuture.java:782) ~[rocketmq-client-java-5.2.0.jar!/:na]
+	at org.apache.rocketmq.shaded.io.grpc.stub.ClientCalls$GrpcFuture.set(ClientCalls.java:569) ~[rocketmq-client-java-5.2.0.jar!/:na]
+	at org.apache.rocketmq.shaded.io.grpc.stub.ClientCalls$UnaryStreamToFuture.onClose(ClientCalls.java:542) ~[rocketmq-client-java-5.2.0.jar!/:na]
+	at org.apache.rocketmq.shaded.io.grpc.PartialForwardingClientCallListener.onClose(PartialForwardingClientCallListener.java:39) ~[rocketmq-client-java-5.2.0.jar!/:na]
+	at org.apache.rocketmq.shaded.io.grpc.ForwardingClientCallListener.onClose(ForwardingClientCallListener.java:23) ~[rocketmq-client-java-5.2.0.jar!/:na]
+	at org.apache.rocketmq.shaded.io.grpc.ForwardingClientCallListener$SimpleForwardingClientCallListener.onClose(ForwardingClientCallListener.java:40) ~[rocketmq-client-java-5.2.0.jar!/:na]
+	at org.apache.rocketmq.shaded.io.grpc.internal.ClientCallImpl.closeObserver(ClientCallImpl.java:563) ~[rocketmq-client-java-5.2.0.jar!/:na]
+	at org.apache.rocketmq.shaded.io.grpc.internal.ClientCallImpl.access$300(ClientCallImpl.java:70) ~[rocketmq-client-java-5.2.0.jar!/:na]
+	at org.apache.rocketmq.shaded.io.grpc.internal.ClientCallImpl$ClientStreamListenerImpl$1StreamClosed.runInternal(ClientCallImpl.java:744) ~[rocketmq-client-java-5.2.0.jar!/:na]
+	at org.apache.rocketmq.shaded.io.grpc.internal.ClientCallImpl$ClientStreamListenerImpl$1StreamClosed.runInContext(ClientCallImpl.java:723) ~[rocketmq-client-java-5.2.0.jar!/:na]
+	at org.apache.rocketmq.shaded.io.grpc.internal.ContextRunnable.run(ContextRunnable.java:37) ~[rocketmq-client-java-5.2.0.jar!/:na]
+	at org.apache.rocketmq.shaded.io.grpc.internal.SerializingExecutor.run(SerializingExecutor.java:133) ~[rocketmq-client-java-5.2.0.jar!/:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[na:na]
+	... 1 common frames omitted
+

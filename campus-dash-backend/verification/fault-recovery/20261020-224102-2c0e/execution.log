@@ -1,0 +1,61 @@
+{"at": "2026-10-20T22:42:18.516045", "name": "服务启动", "service": "api", "pid": 88138, "log": "/Users/haojunpan/Desktop/工作项目/project/ai/ai-agents-from-zero/项目实战-校园跑腿抢单市场/实战项目-线上版本/项目工程/campus-dash-backend/verification/fault-recovery/20261020-224102-2c0e/api-1.log", "scanMillis": 5000}
+{"at": "2026-10-20T22:42:23.378672", "name": "服务启动", "service": "worker", "pid": 88152, "log": "/Users/haojunpan/Desktop/工作项目/project/ai/ai-agents-from-zero/项目实战-校园跑腿抢单市场/实战项目-线上版本/项目工程/campus-dash-backend/verification/fault-recovery/20261020-224102-2c0e/worker-1.log", "scanMillis": 5000}
+{"at": "2026-10-20T22:42:24.009404", "name": "Redis只读脚本触发BUSY"}
+PASS Redis BUSY鉴权明确退避
+PASS Redis BUSY恢复后原Session继续可用
+{"at": "2026-10-20T22:42:28.029686", "name": "重复消息已实际投递", "topic": "errand-auto-settle", "key": "autosettle:238310892243161088", "count": 5}
+PASS 提前自动结算消息不动资金
+{"at": "2026-10-20T22:43:13.760922", "name": "重复消息已实际投递", "topic": "errand-auto-settle", "key": "autosettle:238310892243161088", "count": 10}
+PASS 并发重复结算至多一次实际入账 238310892243161088
+PASS 重复自动消息及并发手动重试不重复入账
+{"at": "2026-10-20T22:43:17.388189", "name": "重复消息已实际投递", "topic": "errand-fund-event", "key": "settle:238310892243161088", "count": 10}
+PASS 重复资金事件只落两条通知且账本不变
+{"at": "2026-10-20T22:43:18.502407", "name": "容器故障操作", "action": "kill", "container": "dash-fault-20261020-224102-2c0e-redis"}
+PASS Redis不可用时鉴权关闭并明确退避
+PASS Redis故障拒绝请求未占订单
+PASS Redis停机期间DB兜底释放名额
+{"at": "2026-10-20T22:43:50.812395", "name": "容器故障操作", "action": "start", "container": "dash-fault-20261020-224102-2c0e-redis"}
+PASS Redis清空后旧Session失效而非冒用
+PASS Redis部分Bloom不能隐藏旧订单
+{"at": "2026-10-20T22:43:55.814748", "name": "注入迟到负缓存", "errandId": "238311115464019968", "shards": 4}
+PASS 迟到负缓存不遮挡已提交订单
+PASS Redis重启后原请求结果可从DB恢复
+PASS Redis投影丢失不导致重复接单
+PASS Redis重建保留已确认赢家
+PASS 依赖恢复后使用原UUID可正常抢单
+{"at": "2026-10-20T22:43:57.929316", "name": "仅持有订单行锁", "errandId": "238311284343476224", "connectionId": 10722}
+{"at": "2026-10-20T22:43:58.097454", "name": "确认宕机窗口", "errandId": "238311284343476224", "requestId": "42f04ace-c946-479b-bda2-37d993b6374b", "pending": ["238311284926484480", "69ff01dc-4187-4eb3-89bb-cef892917381", "2026-10-20 22:44:27.937"]}
+{"at": "2026-10-20T22:43:58.131431", "name": "SIGKILL服务", "service": "api", "pid": 88138, "exitCode": -9}
+{"at": "2026-10-20T22:43:58.190861", "name": "释放本轮行锁连接", "connectionId": 10722}
+{"at": "2026-10-20T22:44:02.553997", "name": "服务启动", "service": "api", "pid": 88949, "log": "/Users/haojunpan/Desktop/工作项目/project/ai/ai-agents-from-zero/项目实战-校园跑腿抢单市场/实战项目-线上版本/项目工程/campus-dash-backend/verification/fault-recovery/20261020-224102-2c0e/api-2.log", "scanMillis": 5000}
+PASS 宕机原UUID不会复活
+PASS 提交前宕机没有成功占用事实
+PASS 租约恢复后新请求恰好一个接单事实
+PASS 提交后响应在代理被截断
+{"at": "2026-10-20T22:44:31.073627", "name": "SIGKILL服务", "service": "api", "pid": 88949, "exitCode": -9}
+{"at": "2026-10-20T22:44:35.769904", "name": "服务启动", "service": "api", "pid": 89129, "log": "/Users/haojunpan/Desktop/工作项目/project/ai/ai-agents-from-zero/项目实战-校园跑腿抢单市场/实战项目-线上版本/项目工程/campus-dash-backend/verification/fault-recovery/20261020-224102-2c0e/api-3.log", "scanMillis": 5000}
+PASS 提交后宕机重放原UUID仍是同一赢家
+PASS 真实MySQL COMMIT成功ACK被截断
+PASS 提交不确定资金事件未被误回滚
+PASS 并发重复结算至多一次实际入账 238311453466202112
+{"at": "2026-10-20T22:44:51.909005", "name": "容器故障操作", "action": "kill", "container": "dash-fault-20261020-224102-2c0e-broker"}
+PASS Broker不可用时送达消息保持PENDING
+PASS MQ不可用时资金不先扣后丢消息
+{"at": "2026-10-20T22:45:37.466605", "name": "容器故障操作", "action": "start", "container": "dash-fault-20261020-224102-2c0e-broker"}
+PASS 故障消息自动补发且不进DEAD
+PASS Broker恢复旧超时消息不再推进订单
+{"at": "2026-10-20T22:46:20.842904", "name": "SIGKILL服务", "service": "worker", "pid": 88152, "exitCode": -9}
+PASS Worker停机期间到期任务可持久恢复
+{"at": "2026-10-20T22:47:12.278142", "name": "服务启动", "service": "worker", "pid": 90569, "log": "/Users/haojunpan/Desktop/工作项目/project/ai/ai-agents-from-zero/项目实战-校园跑腿抢单市场/实战项目-线上版本/项目工程/campus-dash-backend/verification/fault-recovery/20261020-224102-2c0e/worker-2.log", "scanMillis": 5000}
+PASS Worker重启积压任务均自动恢复
+{"at": "2026-10-20T22:47:15.868529", "name": "重复消息已实际投递", "topic": "errand-confirm-timeout", "key": "timeout:238311884338663424:0", "count": 10}
+PASS 重复旧轮次消息不释放新接单人
+PASS 全部故障订单、托管及资金通知到达预期终态
+PASS 最终没有PROCESSING请求
+PASS 每单每轮最多一个成功接单事实
+PASS 账户总额守恒
+PASS 逐业务借贷平衡
+PASS 托管没有残留资金
+PASS 逐账户快照与流水一致
+PASS 无残留修复任务或死信
+REPORT /Users/haojunpan/Desktop/工作项目/project/ai/ai-agents-from-zero/项目实战-校园跑腿抢单市场/实战项目-线上版本/项目工程/campus-dash-backend/verification/fault-recovery/20261020-224102-2c0e/run-report.json

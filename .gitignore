@@ -1,0 +1,13 @@
+
+# 私有凭据只通过环境或仓库外受控文件注入
+.env
+.env.*
+!.env.example
+
+# IDE 与本地助手工作目录（含会话记忆，不入库）
+.idea/
+.workbuddy-ai/
+.vscode/
+
+# 本机端口冲突用的 compose 叠加配置（含本机端口约定，不入库）
+campus-dash-backend/docker/docker-compose.local.yaml

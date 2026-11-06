@@ -1,0 +1,46 @@
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.5.8)
+
+2026-10-20T20:52:03.393+08:00  INFO 72281 --- [campus-dash-worker] [           main] c.campusdash.worker.WorkerApplication    : Starting WorkerApplication using Java 23.0.2 with PID 72281 (/Users/haojunpan/Desktop/????/project/ai/ai-agents-from-zero/????-????????/????-????/????/campus-dash-backend/dash-worker/target/dash-worker-1.0.0-SNAPSHOT.jar started by haojunpan in /Users/haojunpan/Desktop/????/project/ai/ai-agents-from-zero/????-????????/????-????/????/campus-dash-backend)
+2026-10-20T20:52:03.396+08:00  INFO 72281 --- [campus-dash-worker] [           main] c.campusdash.worker.WorkerApplication    : No active profile set, falling back to 1 default profile: "default"
+2026-10-20T20:52:04.075+08:00  INFO 72281 --- [campus-dash-worker] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2026-10-20T20:52:04.077+08:00  INFO 72281 --- [campus-dash-worker] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2026-10-20T20:52:04.095+08:00  INFO 72281 --- [campus-dash-worker] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 7 ms. Found 0 Redis repository interfaces.
+2026-10-20T20:52:05.097+08:00  WARN 72281 --- [campus-dash-worker] [           main] i.n.r.d.DnsServerAddressStreamProviders  : Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+2026-10-20T20:52:05.325+08:00  INFO 72281 --- [campus-dash-worker] [           main] org.redisson.Version                     : Redisson 3.22.0
+2026-10-20T20:52:05.456+08:00  INFO 72281 --- [campus-dash-worker] [isson-netty-4-4] o.r.c.pool.MasterPubSubConnectionPool    : 1 connections initialized for 127.0.0.1/127.0.0.1:49967
+2026-10-20T20:52:05.466+08:00  INFO 72281 --- [campus-dash-worker] [sson-netty-4-11] o.r.c.pool.MasterConnectionPool          : 4 connections initialized for 127.0.0.1/127.0.0.1:49967
+2026-10-20T20:52:07.346+08:00  INFO 72281 --- [campus-dash-worker] [           main] c.campusdash.worker.AutoSettleConsumer   : ?????????? topic=errand-auto-settle group=dash-autosettle-consumer
+2026-10-20T20:52:07.407+08:00  INFO 72281 --- [campus-dash-worker] [           main] c.campusdash.worker.CacheEvictConsumer   : ?????????? topic=errand-cache-evict group=dash-cache-evict-consumer
+2026-10-20T20:52:07.450+08:00  INFO 72281 --- [campus-dash-worker] [           main] c.campusdash.worker.FundEventConsumer    : ?????????? topic=errand-fund-event group=dash-fund-event-consumer
+2026-10-20T20:52:07.519+08:00  INFO 72281 --- [campus-dash-worker] [           main] c.c.worker.TimeoutTransferConsumer       : ?????????? topic=errand-confirm-timeout group=dash-timeout-consumer
+2026-10-20T20:52:07.646+08:00  INFO 72281 --- [campus-dash-worker] [           main] c.campusdash.worker.WorkerApplication    : Started WorkerApplication in 4.79 seconds (process running for 5.44)
+2026-10-20T20:52:07.652+08:00  INFO 72281 --- [campus-dash-worker] [   scheduling-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-10-20T20:52:07.783+08:00  INFO 72281 --- [campus-dash-worker] [   scheduling-1] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7e423a73
+2026-10-20T20:52:07.784+08:00  INFO 72281 --- [campus-dash-worker] [   scheduling-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-10-20T20:52:07.808+08:00  INFO 72281 --- [campus-dash-worker] [           main] com.campusdash.worker.BloomRebuildJob    : ????????? 0 ????? id
+2026-10-20T20:52:11.301+08:00  INFO 72281 --- [campus-dash-worker] [onsumption-4-42] c.campusdash.worker.FundEventConsumer    : ??????? msgKey=settle:238283143289933824 tag=SETTLED errandId=238283143289933824
+2026-10-20T20:52:11.323+08:00  INFO 72281 --- [campus-dash-worker] [onsumption-4-43] c.campusdash.worker.FundEventConsumer    : ??????? msgKey=refund:238283154857824256 tag=REFUNDED errandId=238283154857824256
+2026-10-20T20:52:11.521+08:00  INFO 72281 --- [campus-dash-worker] [onsumption-4-44] c.campusdash.worker.FundEventConsumer    : ??????? msgKey=settle:238283155440832512 tag=ARBITRATED errandId=238283155440832512
+2026-10-20T20:52:17.887+08:00  INFO 72281 --- [campus-dash-worker] [   scheduling-1] c.c.worker.LocalMessageRetryJob          : ?????? ??=2 ??=2
+2026-10-20T20:52:39.194+08:00 DEBUG 72281 --- [campus-dash-worker] [onsumption-5-66] c.c.worker.TimeoutTransferConsumer       : ???????? errandId=238283143289933824 round=0 outcome=SKIPPED
+2026-10-20T20:52:42.134+08:00 DEBUG 72281 --- [campus-dash-worker] [onsumption-5-67] c.c.worker.TimeoutTransferConsumer       : ???????? errandId=238283155440832512 round=0 outcome=SKIPPED
+2026-10-20T20:52:42.144+08:00 DEBUG 72281 --- [campus-dash-worker] [onsumption-5-70] c.c.worker.TimeoutTransferConsumer       : ???????? errandId=238283156879478784 round=0 outcome=SKIPPED
+2026-10-20T20:52:42.147+08:00  INFO 72281 --- [campus-dash-worker] [onsumption-5-69] c.c.a.usecase.TimeoutTransferUseCase     : ??????????????? errandId=238283156644597760
+2026-10-20T20:52:42.187+08:00 DEBUG 72281 --- [campus-dash-worker] [onsumption-5-69] c.c.worker.TimeoutTransferConsumer       : ???????? errandId=238283156644597760 round=0 outcome=REVERTED
+2026-10-20T20:52:42.199+08:00  INFO 72281 --- [campus-dash-worker] [onsumption-5-68] c.c.a.usecase.TimeoutTransferUseCase     : ????? errandId=238283156262916096 round=1 -> nextRunner=12002
+2026-10-20T20:52:42.199+08:00 DEBUG 72281 --- [campus-dash-worker] [onsumption-5-68] c.c.worker.TimeoutTransferConsumer       : ???????? errandId=238283156262916096 round=0 outcome=TRANSFERRED
+2026-10-20T20:52:42.734+08:00  INFO 72281 --- [campus-dash-worker] [onsumption-4-73] c.campusdash.worker.FundEventConsumer    : ??????? msgKey=settle:238283156262916096 tag=SETTLED errandId=238283156262916096
+2026-10-20T20:52:42.772+08:00  INFO 72281 --- [campus-dash-worker] [onsumption-4-74] c.campusdash.worker.FundEventConsumer    : ??????? msgKey=refund:238283156644597760 tag=REFUNDED errandId=238283156644597760
+2026-10-20T20:52:47.992+08:00  INFO 72281 --- [campus-dash-worker] [   scheduling-1] c.c.worker.LocalMessageRetryJob          : ?????? ??=1 ??=1
+2026-10-20T20:52:56.026+08:00  INFO 72281 --- [campus-dash-worker] [onsumption-2-79] c.campusdash.worker.AutoSettleConsumer   : ???????? errandId=238283143289933824 result=ALREADY_SETTLED
+2026-10-20T20:52:57.122+08:00  INFO 72281 --- [campus-dash-worker] [onsumption-4-86] c.campusdash.worker.FundEventConsumer    : ??????? msgKey=settle:238283156879478784 tag=SETTLED errandId=238283156879478784
+2026-10-20T20:52:57.130+08:00  INFO 72281 --- [campus-dash-worker] [onsumption-2-80] c.campusdash.worker.AutoSettleConsumer   : ???????? errandId=238283156879478784 result=SETTLED
+2026-10-20T20:53:13.063+08:00 DEBUG 72281 --- [campus-dash-worker] [onsumption-5-87] c.c.worker.TimeoutTransferConsumer       : ???????? errandId=238283156262916096 round=1 outcome=SKIPPED

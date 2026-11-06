@@ -1,0 +1,17 @@
+2026-10-20T21:03:29.761+08:00  INFO 80299 --- [campus-dash-worker] [onsumption-4-43] c.campusdash.worker.FundEventConsumer    : 资金事件已消费 msgKey=settle:238285985664897024 tag=SETTLED errandId=238285985664897024
+2026-10-20T21:03:29.864+08:00  INFO 80299 --- [campus-dash-worker] [onsumption-4-44] c.campusdash.worker.FundEventConsumer    : 资金事件已消费 msgKey=refund:238286001024438272 tag=REFUNDED errandId=238286001024438272
+2026-10-20T21:03:30.094+08:00  INFO 80299 --- [campus-dash-worker] [onsumption-4-45] c.campusdash.worker.FundEventConsumer    : 资金事件已消费 msgKey=settle:238286001464840192 tag=ARBITRATED errandId=238286001464840192
+2026-10-20T21:03:35.640+08:00  INFO 80299 --- [campus-dash-worker] [   scheduling-1] c.c.worker.LocalMessageRetryJob          : 消息重发完成 扫描=2 成功=2
+2026-10-20T21:03:57.157+08:00 DEBUG 80299 --- [campus-dash-worker] [onsumption-5-66] c.c.worker.TimeoutTransferConsumer       : 超时消息处理完成 errandId=238285985664897024 round=0 outcome=SKIPPED
+2026-10-20T21:04:00.027+08:00 DEBUG 80299 --- [campus-dash-worker] [onsumption-5-67] c.c.worker.TimeoutTransferConsumer       : 超时消息处理完成 errandId=238286001464840192 round=0 outcome=SKIPPED
+2026-10-20T21:04:01.065+08:00 DEBUG 80299 --- [campus-dash-worker] [onsumption-5-69] c.c.worker.TimeoutTransferConsumer       : 超时消息处理完成 errandId=238286002995761152 round=0 outcome=SKIPPED
+2026-10-20T21:04:01.082+08:00  INFO 80299 --- [campus-dash-worker] [onsumption-5-70] c.c.a.usecase.TimeoutTransferUseCase     : 候选队列为空，任务回退重新开放 errandId=238286002765074432
+2026-10-20T21:04:01.126+08:00 DEBUG 80299 --- [campus-dash-worker] [onsumption-5-70] c.c.worker.TimeoutTransferConsumer       : 超时消息处理完成 errandId=238286002765074432 round=0 outcome=REVERTED
+2026-10-20T21:04:01.137+08:00  INFO 80299 --- [campus-dash-worker] [onsumption-5-68] c.c.a.usecase.TimeoutTransferUseCase     : 任务已流转 errandId=238286002416947200 round=1 -> nextRunner=12002
+2026-10-20T21:04:01.137+08:00 DEBUG 80299 --- [campus-dash-worker] [onsumption-5-68] c.c.worker.TimeoutTransferConsumer       : 超时消息处理完成 errandId=238286002416947200 round=0 outcome=TRANSFERRED
+2026-10-20T21:04:01.313+08:00  INFO 80299 --- [campus-dash-worker] [onsumption-4-73] c.campusdash.worker.FundEventConsumer    : 资金事件已消费 msgKey=settle:238286002416947200 tag=SETTLED errandId=238286002416947200
+2026-10-20T21:04:01.356+08:00  INFO 80299 --- [campus-dash-worker] [onsumption-4-74] c.campusdash.worker.FundEventConsumer    : 资金事件已消费 msgKey=refund:238286002765074432 tag=REFUNDED errandId=238286002765074432
+2026-10-20T21:04:05.749+08:00  INFO 80299 --- [campus-dash-worker] [   scheduling-1] c.c.worker.LocalMessageRetryJob          : 消息重发完成 扫描=1 成功=1
+2026-10-20T21:04:14.037+08:00  INFO 80299 --- [campus-dash-worker] [onsumption-2-79] c.campusdash.worker.AutoSettleConsumer   : 自动结算消息处理 errandId=238285985664897024 result=ALREADY_SETTLED
+2026-10-20T21:04:16.422+08:00  INFO 80299 --- [campus-dash-worker] [onsumption-4-86] c.campusdash.worker.FundEventConsumer    : 资金事件已消费 msgKey=settle:238286002995761152 tag=SETTLED errandId=238286002995761152
+2026-10-20T21:04:16.428+08:00  INFO 80299 --- [campus-dash-worker] [onsumption-2-80] c.campusdash.worker.AutoSettleConsumer   : 自动结算消息处理 errandId=238286002995761152 result=SETTLED

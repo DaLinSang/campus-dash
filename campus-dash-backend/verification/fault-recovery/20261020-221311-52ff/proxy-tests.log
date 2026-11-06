@@ -1,0 +1,15 @@
+test_commit_error_is_forwarded_and_does_not_poison_next_transaction (__main__.LostCommitAckProxyTest.test_commit_error_is_forwarded_and_does_not_poison_next_transaction) ... ok
+test_drop_is_one_shot_across_connections (__main__.LostCommitAckProxyTest.test_drop_is_one_shot_across_connections) ... ok
+test_failed_ledger_insert_does_not_arm_commit (__main__.LostCommitAckProxyTest.test_failed_ledger_insert_does_not_arm_commit) ... ok
+test_legacy_com_query_still_supported (__main__.LostCommitAckProxyTest.test_legacy_com_query_still_supported) ... ok
+test_prefix_collision_does_not_arm_commit (__main__.LostCommitAckProxyTest.test_prefix_collision_does_not_arm_commit) ... ok
+test_query_attributes_commit_ok_is_dropped (__main__.LostCommitAckProxyTest.test_query_attributes_commit_ok_is_dropped) ... ok
+test_quoted_table_and_whitespace_are_recognized (__main__.LostCommitAckProxyTest.test_quoted_table_and_whitespace_are_recognized) ... ok
+test_rearm_cannot_drop_old_target_commit (__main__.LostCommitAckProxyTest.test_rearm_cannot_drop_old_target_commit) ... ok
+test_rollback_clears_target_transaction (__main__.LostCommitAckProxyTest.test_rollback_clears_target_transaction) ... ok
+test_server_prepare_is_reported_without_guessing_transaction (__main__.LostCommitAckProxyTest.test_server_prepare_is_reported_without_guessing_transaction) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 0.001s
+
+OK

@@ -1,0 +1,36 @@
+PASS API 系统账户-1不能通过演示登录
+PASS API 系统账户-2不能通过演示登录
+PASS API 20个真实并发抢单请求恰好1个成功，其余为业务结果或明确退避
+PASS API 赢家原UUID重放返回相同成功结果
+PASS API 原UUID结果查询与首次成功及重放一致
+PASS API 并发抢单后名额与实际接单人一致
+PASS API 非发单人12001结算被拒绝
+PASS API 非发单人12002结算被拒绝
+PASS API 同单20并发结算恰好1次SETTLED
+PASS API 并发结算只到账950分
+PASS API 并发结算只有1条真实入账流水
+PASS API 并发结算信用只增加一次
+PASS API 20并发取消只有1次实际退款
+PASS API 重复取消不会增加钱包余额
+PASS API 重复取消只有1条777分退款入账流水
+PASS API 非仲裁员11001裁决被拒绝
+PASS API 非仲裁员12001裁决被拒绝
+PASS API 非仲裁员12002裁决被拒绝
+PASS API 真实仲裁可将争议悬赏结算给跑腿
+PASS API 已裁决争议重复提交不再次入账
+PASS API 仲裁支持跑腿只有1条475分入账流水
+PASS API 名额冲突返回明确拒绝终态
+STATE 确认超时转给候选 {"status": "LOCKED", "round": 0, "grabberId": "12001", "slotTaken": 1}
+STATE 确认超时转给候选 {"status": "LOCKED", "round": 1, "grabberId": "12002", "slotTaken": 1}
+PASS MQ状态 确认超时自动转给12002且轮次增加
+PASS API 候选接单人可真实确认
+PASS MQ日志 超时转候选由MQ消费者触发
+STATE 空候选队列回退 {"status": "PUBLISHED", "round": 1, "grabberId": "-1", "slotTaken": 0}
+PASS MQ状态 候选为空自动回退并归还名额
+PASS MQ日志 空候选回退由MQ消费者触发
+STATE 送达超时自动结算 {"status": "DELIVERED", "round": 0, "grabberId": "12001", "slotTaken": 1}
+STATE 送达超时自动结算 {"status": "SETTLED", "round": 0, "grabberId": "12001", "slotTaken": 1}
+PASS MQ状态 送达超时自动结算到账528分
+PASS API 自动结算只有1条528分入账流水
+PASS MQ日志 自动结算由MQ消费者触发
+PASS API 自动结算后手动重复结算保持幂等

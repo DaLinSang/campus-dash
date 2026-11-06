@@ -1,0 +1,1173 @@
+SLF4J(W): No SLF4J providers were found.
+SLF4J(W): Defaulting to no-operation (NOP) logger implementation
+SLF4J(W): See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J(W): No SLF4J providers were found.
+SLF4J(W): Defaulting to no-operation (NOP) logger implementation
+SLF4J(W): See https://www.slf4j.org/codes.html#noProviders for further details.
+INFO: Sentinel log output type is: file
+INFO: Sentinel log charset is: utf-8
+INFO: Sentinel log base directory is: /Users/haojunpan/logs/csp/
+INFO: Sentinel log name use pid is: false
+INFO: Sentinel log level is: INFO
+20:12:21.783 [main] WARN io.netty.resolver.dns.DnsServerAddressStreamProviders -- Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+20:12:22.381 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.381 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.383 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.383 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.383 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.383 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.383 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.383 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.383 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.383 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.383 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.384 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.384 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.384 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.384 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.384 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.384 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.384 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.384 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.384 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.384 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.384 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.384 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.384 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.384 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.384 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.384 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.384 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.384 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.384 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.384 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.384 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.384 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.384 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.385 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.385 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.385 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.385 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.385 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.385 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.385 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.385 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.385 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.385 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.385 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.385 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.385 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.385 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.385 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.385 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.385 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.385 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.385 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.385 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.385 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.385 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.385 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.385 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.386 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.386 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.386 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.386 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.386 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.386 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.386 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.386 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.386 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.386 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.386 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.386 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.386 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.386 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.386 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.386 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.386 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.386 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.386 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.386 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.386 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.386 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.386 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.386 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.386 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.386 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.386 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.386 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.387 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.387 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.387 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.387 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.387 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.387 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.387 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.387 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.387 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.387 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.387 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.387 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.387 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.387 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.387 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+20:12:22.387 [main] WARN com.campusdash.infrastructure.grab.RedisRunnerRateLimiterAdapter -- 跑腿共享限流不可用：IllegalStateException
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.5.8)
+
+2026-10-20T20:12:31.833+08:00  INFO 34972 --- [           main] c.c.presentation.auth.OidcLoginFlowTest  : Starting OidcLoginFlowTest using Java 23.0.2 with PID 34972 (started by haojunpan in /Users/haojunpan/Desktop/????/project/ai/ai-agents-from-zero/????-????????/????-????/????/campus-dash-backend/dash-presentation)
+2026-10-20T20:12:31.835+08:00  INFO 34972 --- [           main] c.c.presentation.auth.OidcLoginFlowTest  : No active profile set, falling back to 1 default profile: "default"
+2026-10-20T20:12:32.570+08:00  INFO 34972 --- [           main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2026-10-20T20:12:32.571+08:00  INFO 34972 --- [           main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2026-10-20T20:12:32.571+08:00  INFO 34972 --- [           main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 0 ms
+2026-10-20T20:12:32.589+08:00  INFO 34972 --- [           main] c.c.presentation.auth.OidcLoginFlowTest  : Started OidcLoginFlowTest in 0.9 seconds (process running for 1.684)
+Mockito is currently self-attaching to enable the inline-mock-maker. This will no longer work in future releases of the JDK. Please add Mockito as an agent to your build as described in Mockito's documentation: https://javadoc.io/doc/org.mockito/mockito-core/latest/org.mockito/org/mockito/Mockito.html#0.3
+Java HotSpot(TM) 64-Bit Server VM warning: Sharing is only supported for boot loader classes because bootstrap classpath has been appended
+WARNING: A Java agent has been loaded dynamically (/Users/haojunpan/.m2/repository/net/bytebuddy/byte-buddy-agent/1.17.8/byte-buddy-agent-1.17.8.jar)
+WARNING: If a serviceability tool is in use, please run with -XX:+EnableDynamicAgentLoading to hide this warning
+WARNING: If a serviceability tool is not in use, please run with -Djdk.instrument.traceUsage for more information
+WARNING: Dynamic loading of agents will be disallowed by default in a future release
+20:12:34.513 [main] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.campusdash.it.CacheCheckIT]: CacheCheckIT does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+20:12:34.603 [main] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.campusdash.CampusDashApplication for test class com.campusdash.it.CacheCheckIT
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.5.8)
+
+2026-10-20T20:12:34.891+08:00  INFO 35009 --- [campus-dash] [           main] com.campusdash.it.CacheCheckIT           : Starting CacheCheckIT using Java 23.0.2 with PID 35009 (started by haojunpan in /Users/haojunpan/Desktop/????/project/ai/ai-agents-from-zero/????-????????/????-????/????/campus-dash-backend/dash-bootstrap)
+2026-10-20T20:12:34.892+08:00  INFO 35009 --- [campus-dash] [           main] com.campusdash.it.CacheCheckIT           : No active profile set, falling back to 1 default profile: "default"
+2026-10-20T20:12:35.498+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2026-10-20T20:12:35.499+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2026-10-20T20:12:35.522+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 13 ms. Found 0 Redis repository interfaces.
+2026-10-20T20:12:36.061+08:00  WARN 35009 --- [campus-dash] [           main] i.n.r.d.DnsServerAddressStreamProviders  : Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+2026-10-20T20:12:36.340+08:00  INFO 35009 --- [campus-dash] [           main] org.redisson.Version                     : Redisson 3.22.0
+2026-10-20T20:12:36.494+08:00  INFO 35009 --- [campus-dash] [isson-netty-4-4] o.r.c.pool.MasterPubSubConnectionPool    : 1 connections initialized for 127.0.0.1/127.0.0.1:6380
+2026-10-20T20:12:36.510+08:00  INFO 35009 --- [campus-dash] [sson-netty-4-11] o.r.c.pool.MasterConnectionPool          : 4 connections initialized for 127.0.0.1/127.0.0.1:6380
+2026-10-20T20:12:37.173+08:00  INFO 35009 --- [campus-dash] [           main] com.campusdash.it.CacheCheckIT           : Started CacheCheckIT in 2.472 seconds (process running for 3.199)
+Mockito is currently self-attaching to enable the inline-mock-maker. This will no longer work in future releases of the JDK. Please add Mockito as an agent to your build as described in Mockito's documentation: https://javadoc.io/doc/org.mockito/mockito-core/latest/org.mockito/org/mockito/Mockito.html#0.3
+Java HotSpot(TM) 64-Bit Server VM warning: Sharing is only supported for boot loader classes because bootstrap classpath has been appended
+WARNING: A Java agent has been loaded dynamically (/Users/haojunpan/.m2/repository/net/bytebuddy/byte-buddy-agent/1.17.8/byte-buddy-agent-1.17.8.jar)
+WARNING: If a serviceability tool is in use, please run with -XX:+EnableDynamicAgentLoading to hide this warning
+WARNING: If a serviceability tool is not in use, please run with -Djdk.instrument.traceUsage for more information
+WARNING: Dynamic loading of agents will be disallowed by default in a future release
+2026-10-20T20:12:37.598+08:00  INFO 35009 --- [campus-dash] [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-10-20T20:12:37.704+08:00  INFO 35009 --- [campus-dash] [           main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6cb2d5ea
+2026-10-20T20:12:37.704+08:00  INFO 35009 --- [campus-dash] [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-10-20T20:12:38.122+08:00  WARN 35009 --- [campus-dash] [           main] c.c.a.u.q.CacheConsistencyCheckUseCase   : ??????? 2 ?????? sync_diff ????
+2026-10-20T20:12:38.138+08:00  INFO 35009 --- [campus-dash] [           main] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.campusdash.it.CacheConsistencyIT]: CacheConsistencyIT does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2026-10-20T20:12:38.139+08:00  INFO 35009 --- [campus-dash] [           main] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.campusdash.CampusDashApplication for test class com.campusdash.it.CacheConsistencyIT
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.5.8)
+
+2026-10-20T20:12:38.156+08:00  INFO 35009 --- [campus-dash] [           main] com.campusdash.it.CacheConsistencyIT     : Starting CacheConsistencyIT using Java 23.0.2 with PID 35009 (started by haojunpan in /Users/haojunpan/Desktop/????/project/ai/ai-agents-from-zero/????-????????/????-????/????/campus-dash-backend/dash-bootstrap)
+2026-10-20T20:12:38.157+08:00  INFO 35009 --- [campus-dash] [           main] com.campusdash.it.CacheConsistencyIT     : No active profile set, falling back to 1 default profile: "default"
+2026-10-20T20:12:38.269+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2026-10-20T20:12:38.269+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2026-10-20T20:12:38.275+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 4 ms. Found 0 Redis repository interfaces.
+2026-10-20T20:12:38.321+08:00  INFO 35009 --- [campus-dash] [           main] org.redisson.Version                     : Redisson 3.22.0
+2026-10-20T20:12:38.325+08:00  INFO 35009 --- [campus-dash] [sson-netty-10-4] o.r.c.pool.MasterPubSubConnectionPool    : 1 connections initialized for 127.0.0.1/127.0.0.1:6380
+2026-10-20T20:12:38.332+08:00  INFO 35009 --- [campus-dash] [son-netty-10-11] o.r.c.pool.MasterConnectionPool          : 4 connections initialized for 127.0.0.1/127.0.0.1:6380
+2026-10-20T20:12:38.422+08:00  INFO 35009 --- [campus-dash] [           main] com.campusdash.it.CacheConsistencyIT     : Started CacheConsistencyIT in 0.28 seconds (process running for 4.448)
+2026-10-20T20:12:38.427+08:00  INFO 35009 --- [campus-dash] [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Starting...
+2026-10-20T20:12:38.435+08:00  INFO 35009 --- [campus-dash] [           main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3a2f4611
+2026-10-20T20:12:38.435+08:00  INFO 35009 --- [campus-dash] [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Start completed.
+2026-10-20T20:12:39.600+08:00  INFO 35009 --- [campus-dash] [           main] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.campusdash.it.AuthModeIT$JwtMode]: JwtMode does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2026-10-20T20:12:39.601+08:00  INFO 35009 --- [campus-dash] [           main] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.campusdash.CampusDashApplication for test class com.campusdash.it.AuthModeIT$JwtMode
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.5.8)
+
+2026-10-20T20:12:39.615+08:00  INFO 35009 --- [campus-dash] [           main] com.campusdash.it.AuthModeIT$JwtMode     : Starting AuthModeIT.JwtMode using Java 23.0.2 with PID 35009 (started by haojunpan in /Users/haojunpan/Desktop/????/project/ai/ai-agents-from-zero/????-????????/????-????/????/campus-dash-backend/dash-bootstrap)
+2026-10-20T20:12:39.615+08:00  INFO 35009 --- [campus-dash] [           main] com.campusdash.it.AuthModeIT$JwtMode     : No active profile set, falling back to 1 default profile: "default"
+2026-10-20T20:12:39.721+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2026-10-20T20:12:39.721+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2026-10-20T20:12:39.727+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 5 ms. Found 0 Redis repository interfaces.
+2026-10-20T20:12:39.786+08:00  INFO 35009 --- [campus-dash] [           main] org.redisson.Version                     : Redisson 3.22.0
+2026-10-20T20:12:39.790+08:00  INFO 35009 --- [campus-dash] [sson-netty-16-4] o.r.c.pool.MasterPubSubConnectionPool    : 1 connections initialized for 127.0.0.1/127.0.0.1:6380
+2026-10-20T20:12:39.795+08:00  INFO 35009 --- [campus-dash] [son-netty-16-11] o.r.c.pool.MasterConnectionPool          : 4 connections initialized for 127.0.0.1/127.0.0.1:6380
+2026-10-20T20:12:39.929+08:00  INFO 35009 --- [campus-dash] [           main] com.campusdash.it.AuthModeIT$JwtMode     : Started AuthModeIT.JwtMode in 0.325 seconds (process running for 5.956)
+2026-10-20T20:12:40.092+08:00  INFO 35009 --- [campus-dash] [           main] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.campusdash.it.AuthModeIT$SessionMode]: SessionMode does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2026-10-20T20:12:40.093+08:00  INFO 35009 --- [campus-dash] [           main] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.campusdash.CampusDashApplication for test class com.campusdash.it.AuthModeIT$SessionMode
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.5.8)
+
+2026-10-20T20:12:40.109+08:00  INFO 35009 --- [campus-dash] [           main] c.campusdash.it.AuthModeIT$SessionMode   : Starting AuthModeIT.SessionMode using Java 23.0.2 with PID 35009 (started by haojunpan in /Users/haojunpan/Desktop/????/project/ai/ai-agents-from-zero/????-????????/????-????/????/campus-dash-backend/dash-bootstrap)
+2026-10-20T20:12:40.109+08:00  INFO 35009 --- [campus-dash] [           main] c.campusdash.it.AuthModeIT$SessionMode   : No active profile set, falling back to 1 default profile: "default"
+2026-10-20T20:12:40.204+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2026-10-20T20:12:40.204+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2026-10-20T20:12:40.212+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 7 ms. Found 0 Redis repository interfaces.
+2026-10-20T20:12:40.244+08:00  INFO 35009 --- [campus-dash] [           main] org.redisson.Version                     : Redisson 3.22.0
+2026-10-20T20:12:40.247+08:00  INFO 35009 --- [campus-dash] [sson-netty-22-4] o.r.c.pool.MasterPubSubConnectionPool    : 1 connections initialized for 127.0.0.1/127.0.0.1:6380
+2026-10-20T20:12:40.250+08:00  INFO 35009 --- [campus-dash] [son-netty-22-11] o.r.c.pool.MasterConnectionPool          : 4 connections initialized for 127.0.0.1/127.0.0.1:6380
+2026-10-20T20:12:40.322+08:00  INFO 35009 --- [campus-dash] [           main] c.campusdash.it.AuthModeIT$SessionMode   : Started AuthModeIT.SessionMode in 0.225 seconds (process running for 6.349)
+2026-10-20T20:12:40.356+08:00  INFO 35009 --- [campus-dash] [           main] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.campusdash.it.OversellControlExperimentIT]: OversellControlExperimentIT does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2026-10-20T20:12:40.356+08:00  INFO 35009 --- [campus-dash] [           main] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.campusdash.CampusDashApplication for test class com.campusdash.it.OversellControlExperimentIT
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.5.8)
+
+2026-10-20T20:12:40.386+08:00  INFO 35009 --- [campus-dash] [           main] c.c.it.OversellControlExperimentIT       : Starting OversellControlExperimentIT using Java 23.0.2 with PID 35009 (started by haojunpan in /Users/haojunpan/Desktop/????/project/ai/ai-agents-from-zero/????-????????/????-????/????/campus-dash-backend/dash-bootstrap)
+2026-10-20T20:12:40.386+08:00  INFO 35009 --- [campus-dash] [           main] c.c.it.OversellControlExperimentIT       : No active profile set, falling back to 1 default profile: "default"
+2026-10-20T20:12:40.472+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2026-10-20T20:12:40.472+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2026-10-20T20:12:40.478+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 4 ms. Found 0 Redis repository interfaces.
+2026-10-20T20:12:40.538+08:00  INFO 35009 --- [campus-dash] [           main] org.redisson.Version                     : Redisson 3.22.0
+2026-10-20T20:12:40.545+08:00  INFO 35009 --- [campus-dash] [sson-netty-28-4] o.r.c.pool.MasterPubSubConnectionPool    : 1 connections initialized for 127.0.0.1/127.0.0.1:6380
+2026-10-20T20:12:40.592+08:00  INFO 35009 --- [campus-dash] [son-netty-28-11] o.r.c.pool.MasterConnectionPool          : 4 connections initialized for 127.0.0.1/127.0.0.1:6380
+2026-10-20T20:12:40.710+08:00  INFO 35009 --- [campus-dash] [           main] c.c.it.OversellControlExperimentIT       : Started OversellControlExperimentIT in 0.334 seconds (process running for 6.736)
+2026-10-20T20:12:40.713+08:00  INFO 35009 --- [campus-dash] [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Starting...
+2026-10-20T20:12:40.720+08:00  INFO 35009 --- [campus-dash] [           main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-3 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4a35f473
+2026-10-20T20:12:40.720+08:00  INFO 35009 --- [campus-dash] [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Start completed.
+[对照A] Redis 通过=228 名额余=-227（Redis 层已超卖，DB 层由 CAS+唯一索引兜底）
+[对照B] 无条件 UPDATE 成功=174（真正超卖：174 人抢中同一个名额）slot_taken=0
+2026-10-20T20:12:41.681+08:00  INFO 35009 --- [campus-dash] [           main] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.campusdash.it.TimeoutRaceReliabilityIT]: TimeoutRaceReliabilityIT does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2026-10-20T20:12:41.682+08:00  INFO 35009 --- [campus-dash] [           main] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.campusdash.CampusDashApplication for test class com.campusdash.it.TimeoutRaceReliabilityIT
+2026-10-20T20:12:41.748+08:00  INFO 35009 --- [campus-dash] [           main] c.c.a.usecase.TimeoutTransferUseCase     : ????? errandId=238273216395612160 round=1 -> nextRunner=78132
+2026-10-20T20:12:41.753+08:00  INFO 35009 --- [campus-dash] [           main] c.c.a.usecase.TimeoutTransferUseCase     : ??????????????? errandId=238273216395612160
+2026-10-20T20:12:41.893+08:00  INFO 35009 --- [campus-dash] [           main] c.c.a.usecase.TimeoutTransferUseCase     : ????? errandId=238273216877957120 round=1 -> nextRunner=78201
+2026-10-20T20:12:41.924+08:00  INFO 35009 --- [campus-dash] [           main] c.c.a.usecase.TimeoutTransferUseCase     : ????? errandId=238273216877957120 round=2 -> nextRunner=78202
+2026-10-20T20:12:41.941+08:00  INFO 35009 --- [campus-dash] [           main] c.c.a.usecase.TimeoutTransferUseCase     : ????? errandId=238273216877957120 round=3 -> nextRunner=78203
+2026-10-20T20:12:41.964+08:00  INFO 35009 --- [campus-dash] [           main] c.c.a.usecase.TimeoutTransferUseCase     : ????? errandId=238273216877957120 round=4 -> nextRunner=78204
+2026-10-20T20:12:41.981+08:00  INFO 35009 --- [campus-dash] [           main] c.c.a.usecase.TimeoutTransferUseCase     : ????? errandId=238273216877957120 round=5 -> nextRunner=78205
+2026-10-20T20:12:41.985+08:00  INFO 35009 --- [campus-dash] [           main] c.c.a.usecase.TimeoutTransferUseCase     : ???????? errandId=238273216877957120 round=5 max=5???????
+2026-10-20T20:12:42.044+08:00  INFO 35009 --- [campus-dash] [           main] c.c.a.usecase.TimeoutTransferUseCase     : ????? errandId=238273216877957120 round=7 -> nextRunner=78211
+2026-10-20T20:12:42.255+08:00  INFO 35009 --- [campus-dash] [           main] c.c.a.usecase.TimeoutTransferUseCase     : ????? errandId=238273217892978688 round=1 -> nextRunner=78102
+2026-10-20T20:12:42.328+08:00  INFO 35009 --- [campus-dash] [           main] c.c.a.usecase.TimeoutTransferUseCase     : ????? errandId=238273218815725568 round=1 -> nextRunner=78142
+2026-10-20T20:12:42.377+08:00  INFO 35009 --- [campus-dash] [           main] c.c.a.usecase.TimeoutTransferUseCase     : ??????????????? errandId=238273219092549632
+2026-10-20T20:12:42.426+08:00  INFO 35009 --- [campus-dash] [           main] c.c.a.usecase.TimeoutTransferUseCase     : ????? errandId=238273219092549632 round=2 -> nextRunner=78124
+2026-10-20T20:12:42.487+08:00  INFO 35009 --- [campus-dash] [           main] c.c.a.usecase.TimeoutTransferUseCase     : ????? errandId=238273219499397120 round=1 -> nextRunner=78112
+2026-10-20T20:12:42.514+08:00  INFO 35009 --- [campus-dash] [           main] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.campusdash.it.GrabReliabilityV2IT]: GrabReliabilityV2IT does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2026-10-20T20:12:42.516+08:00  INFO 35009 --- [campus-dash] [           main] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.campusdash.CampusDashApplication for test class com.campusdash.it.GrabReliabilityV2IT
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.5.8)
+
+2026-10-20T20:12:42.543+08:00  INFO 35009 --- [campus-dash] [           main] com.campusdash.it.GrabReliabilityV2IT    : Starting GrabReliabilityV2IT using Java 23.0.2 with PID 35009 (started by haojunpan in /Users/haojunpan/Desktop/????/project/ai/ai-agents-from-zero/????-????????/????-????/????/campus-dash-backend/dash-bootstrap)
+2026-10-20T20:12:42.544+08:00  INFO 35009 --- [campus-dash] [           main] com.campusdash.it.GrabReliabilityV2IT    : No active profile set, falling back to 1 default profile: "default"
+2026-10-20T20:12:42.697+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2026-10-20T20:12:42.697+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2026-10-20T20:12:42.704+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 5 ms. Found 0 Redis repository interfaces.
+2026-10-20T20:12:42.809+08:00  INFO 35009 --- [campus-dash] [           main] org.redisson.Version                     : Redisson 3.22.0
+2026-10-20T20:12:42.813+08:00  INFO 35009 --- [campus-dash] [sson-netty-34-4] o.r.c.pool.MasterPubSubConnectionPool    : 1 connections initialized for 127.0.0.1/127.0.0.1:6380
+2026-10-20T20:12:42.817+08:00  INFO 35009 --- [campus-dash] [son-netty-34-11] o.r.c.pool.MasterConnectionPool          : 4 connections initialized for 127.0.0.1/127.0.0.1:6380
+2026-10-20T20:12:43.034+08:00  INFO 35009 --- [campus-dash] [           main] com.campusdash.it.GrabReliabilityV2IT    : Started GrabReliabilityV2IT in 0.509 seconds (process running for 9.06)
+2026-10-20T20:12:43.043+08:00  INFO 35009 --- [campus-dash] [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-4 - Starting...
+2026-10-20T20:12:43.053+08:00  INFO 35009 --- [campus-dash] [           main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-4 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6982bcf4
+2026-10-20T20:12:43.054+08:00  INFO 35009 --- [campus-dash] [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-4 - Start completed.
+2026-10-20T20:12:43.819+08:00  INFO 35009 --- [campus-dash] [           main] c.c.a.usecase.TimeoutTransferUseCase     : ??????????????? errandId=238273225010712576
+2026-10-20T20:12:44.976+08:00  INFO 35009 --- [campus-dash] [           main] c.c.a.usecase.TimeoutTransferUseCase     : ????? errandId=238273229792219136 round=1 -> nextRunner=76010
+2026-10-20T20:12:44.984+08:00  INFO 35009 --- [campus-dash] [           main] c.c.a.usecase.TimeoutTransferUseCase     : ??????????????? errandId=238273229792219136
+2026-10-20T20:12:45.115+08:00  INFO 35009 --- [campus-dash] [           main] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.campusdash.it.SettleConcurrencyIT]: SettleConcurrencyIT does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2026-10-20T20:12:45.118+08:00  INFO 35009 --- [campus-dash] [           main] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.campusdash.CampusDashApplication for test class com.campusdash.it.SettleConcurrencyIT
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.5.8)
+
+2026-10-20T20:12:45.138+08:00  INFO 35009 --- [campus-dash] [           main] com.campusdash.it.SettleConcurrencyIT    : Starting SettleConcurrencyIT using Java 23.0.2 with PID 35009 (started by haojunpan in /Users/haojunpan/Desktop/????/project/ai/ai-agents-from-zero/????-????????/????-????/????/campus-dash-backend/dash-bootstrap)
+2026-10-20T20:12:45.138+08:00  INFO 35009 --- [campus-dash] [           main] com.campusdash.it.SettleConcurrencyIT    : No active profile set, falling back to 1 default profile: "default"
+2026-10-20T20:12:45.240+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2026-10-20T20:12:45.240+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2026-10-20T20:12:45.246+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 4 ms. Found 0 Redis repository interfaces.
+2026-10-20T20:12:45.282+08:00  INFO 35009 --- [campus-dash] [           main] org.redisson.Version                     : Redisson 3.22.0
+2026-10-20T20:12:45.285+08:00  INFO 35009 --- [campus-dash] [sson-netty-40-4] o.r.c.pool.MasterPubSubConnectionPool    : 1 connections initialized for 127.0.0.1/127.0.0.1:6380
+2026-10-20T20:12:45.288+08:00  INFO 35009 --- [campus-dash] [son-netty-40-11] o.r.c.pool.MasterConnectionPool          : 4 connections initialized for 127.0.0.1/127.0.0.1:6380
+2026-10-20T20:12:45.384+08:00  INFO 35009 --- [campus-dash] [           main] com.campusdash.it.SettleConcurrencyIT    : Started SettleConcurrencyIT in 0.255 seconds (process running for 11.41)
+2026-10-20T20:12:45.386+08:00  INFO 35009 --- [campus-dash] [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-5 - Starting...
+2026-10-20T20:12:45.393+08:00  INFO 35009 --- [campus-dash] [           main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-5 - Added connection com.mysql.cj.jdbc.ConnectionImpl@64eb79d
+2026-10-20T20:12:45.393+08:00  INFO 35009 --- [campus-dash] [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-5 - Start completed.
+[S4-a] 任务数=500 工作线程=64 成功=500 冲突=0 异常=0 死锁=0 耗时=3732ms TPS≈134
+2026-10-20T20:12:54.462+08:00  INFO 35009 --- [campus-dash] [pool-6-thread-8] c.c.a.usecase.SettleErrandUseCase        : ?????escrow ?? HELD errandId=900000000001
+2026-10-20T20:12:54.463+08:00  INFO 35009 --- [campus-dash] [pool-6-thread-9] c.c.a.usecase.SettleErrandUseCase        : ?????escrow ?? HELD errandId=900000000001
+2026-10-20T20:12:54.464+08:00  INFO 35009 --- [campus-dash] [ool-6-thread-89] c.c.a.usecase.SettleErrandUseCase        : ?????escrow ?? HELD errandId=900000000001
+2026-10-20T20:12:54.464+08:00  INFO 35009 --- [campus-dash] [pool-6-thread-4] c.c.a.usecase.SettleErrandUseCase        : ?????escrow ?? HELD errandId=900000000001
+2026-10-20T20:12:54.464+08:00  INFO 35009 --- [campus-dash] [ool-6-thread-15] c.c.a.usecase.SettleErrandUseCase        : ?????escrow ?? HELD errandId=900000000001
+2026-10-20T20:12:54.465+08:00  INFO 35009 --- [campus-dash] [ool-6-thread-83] c.c.a.usecase.SettleErrandUseCase        : ?????escrow ?? HELD errandId=900000000001
+2026-10-20T20:12:54.465+08:00  INFO 35009 --- [campus-dash] [ol-6-thread-102] c.c.a.usecase.SettleErrandUseCase        : ?????escrow ?? HELD errandId=900000000001
+2026-10-20T20:12:54.466+08:00  INFO 35009 --- [campus-dash] [ool-6-thread-10] c.c.a.usecase.SettleErrandUseCase        : ?????escrow ?? HELD errandId=900000000001
+2026-10-20T20:12:54.466+08:00  INFO 35009 --- [campus-dash] [pool-6-thread-6] c.c.a.usecase.SettleErrandUseCase        : ?????escrow ?? HELD errandId=900000000001
+2026-10-20T20:12:54.466+08:00  INFO 35009 --- [campus-dash] [ool-6-thread-14] c.c.a.usecase.SettleErrandUseCase        : ?????escrow ?? HELD errandId=900000000001
+2026-10-20T20:12:54.467+08:00  INFO 35009 --- [campus-dash] [ol-6-thread-137] c.c.a.usecase.SettleErrandUseCase        : ?????escrow ?? HELD errandId=900000000001
+2026-10-20T20:12:54.467+08:00  INFO 35009 --- [campus-dash] [ool-6-thread-45] c.c.a.usecase.SettleErrandUseCase        : ?????escrow ?? HELD errandId=900000000001
+2026-10-20T20:12:54.468+08:00  INFO 35009 --- [campus-dash] [ol-6-thread-179] c.c.a.usecase.SettleErrandUseCase        : ?????escrow ?? HELD errandId=900000000001
+2026-10-20T20:12:54.468+08:00  INFO 35009 --- [campus-dash] [ool-6-thread-36] c.c.a.usecase.SettleErrandUseCase        : ?????escrow ?? HELD errandId=900000000001
+2026-10-20T20:12:54.469+08:00  INFO 35009 --- [campus-dash] [ol-6-thread-169] c.c.a.usecase.SettleErrandUseCase        : ?????escrow ?? HELD errandId=900000000001
+2026-10-20T20:12:54.469+08:00  INFO 35009 --- [campus-dash] [ool-6-thread-50] c.c.a.usecase.SettleErrandUseCase        : ?????escrow ?? HELD errandId=900000000001
+2026-10-20T20:12:54.470+08:00  INFO 35009 --- [campus-dash] [ool-6-thread-42] c.c.a.usecase.SettleErrandUseCase        : ?????escrow ?? HELD errandId=900000000001
+2026-10-20T20:12:54.470+08:00  INFO 35009 --- [campus-dash] [ol-6-thread-154] c.c.a.usecase.SettleErrandUseCase        : ?????escrow ?? HELD errandId=900000000001
+2026-10-20T20:12:54.471+08:00  INFO 35009 --- [campus-dash] [ol-6-thread-174] c.c.a.usecase.SettleErrandUseCase        : ?????escrow ?? HELD errandId=900000000001
+2026-10-20T20:12:54.472+08:00  INFO 35009 --- [campus-dash] [pool-6-thread-1] c.c.a.usecase.SettleErrandUseCase        : ?????escrow ?? HELD errandId=900000000001
+2026-10-20T20:12:54.472+08:00  INFO 35009 --- [campus-dash] [ool-6-thread-16] c.c.a.usecase.SettleErrandUseCase        : ?????escrow ?? HELD errandId=900000000001
+2026-10-20T20:12:54.473+08:00  INFO 35009 --- [campus-dash] [ool-6-thread-11] c.c.a.usecase.SettleErrandUseCase        : ?????escrow ?? HELD errandId=900000000001
+2026-10-20T20:12:54.473+08:00  INFO 35009 --- [campus-dash] [ool-6-thread-20] c.c.a.usecase.SettleErrandUseCase        : ?????escrow ?? HELD errandId=900000000001
+2026-10-20T20:12:54.474+08:00  INFO 35009 --- [campus-dash] [pool-6-thread-7] c.c.a.usecase.SettleErrandUseCase        : ?????escrow ?? HELD errandId=900000000001
+2026-10-20T20:12:54.475+08:00  INFO 35009 --- [campus-dash] [pool-6-thread-3] c.c.a.usecase.SettleErrandUseCase        : ?????escrow ?? HELD errandId=900000000001
+2026-10-20T20:12:54.475+08:00  INFO 35009 --- [campus-dash] [ool-6-thread-87] c.c.a.usecase.SettleErrandUseCase        : ?????escrow ?? HELD errandId=900000000001
+2026-10-20T20:12:54.475+08:00  INFO 35009 --- [campus-dash] [ol-6-thread-100] c.c.a.usecase.SettleErrandUseCase        : ?????escrow ?? HELD errandId=900000000001
+2026-10-20T20:12:54.476+08:00  INFO 35009 --- [campus-dash] [pool-6-thread-5] c.c.a.usecase.SettleErrandUseCase        : ?????escrow ?? HELD errandId=900000000001
+2026-10-20T20:12:54.476+08:00  INFO 35009 --- [campus-dash] [ool-6-thread-84] c.c.a.usecase.SettleErrandUseCase        : ?????escrow ?? HELD errandId=900000000001
+2026-10-20T20:12:54.476+08:00  INFO 35009 --- [campus-dash] [ool-6-thread-19] c.c.a.usecase.SettleErrandUseCase        : ?????escrow ?? HELD errandId=900000000001
+2026-10-20T20:12:54.477+08:00  INFO 35009 --- [campus-dash] [ool-6-thread-18] c.c.a.usecase.SettleErrandUseCase        : ?????escrow ?? HELD errandId=900000000001
+2026-10-20T20:12:54.477+08:00  INFO 35009 --- [campus-dash] [ool-6-thread-17] c.c.a.usecase.SettleErrandUseCase        : ?????escrow ?? HELD errandId=900000000001
+2026-10-20T20:12:54.477+08:00  INFO 35009 --- [campus-dash] [ool-6-thread-13] c.c.a.usecase.SettleErrandUseCase        : ?????escrow ?? HELD errandId=900000000001
+2026-10-20T20:12:54.477+08:00  INFO 35009 --- [campus-dash] [ol-6-thread-134] c.c.a.usecase.SettleErrandUseCase        : ?????escrow ?? HELD errandId=900000000001
+2026-10-20T20:12:54.478+08:00  INFO 35009 --- [campus-dash] [ool-6-thread-32] c.c.a.usecase.SettleErrandUseCase        : ?????escrow ?? HELD errandId=900000000001
+2026-10-20T20:12:54.478+08:00  INFO 35009 --- [campus-dash] [pool-6-thread-2] c.c.a.usecase.SettleErrandUseCase        : ?????escrow ?? HELD errandId=900000000001
+[S4-b] 并发=200 结算成功=1 判定已结算=199
+2026-10-20T20:12:54.492+08:00  INFO 35009 --- [campus-dash] [           main] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.campusdash.it.CreditCalibrationIT]: CreditCalibrationIT does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2026-10-20T20:12:54.493+08:00  INFO 35009 --- [campus-dash] [           main] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.campusdash.CampusDashApplication for test class com.campusdash.it.CreditCalibrationIT
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.5.8)
+
+2026-10-20T20:12:54.506+08:00  INFO 35009 --- [campus-dash] [           main] com.campusdash.it.CreditCalibrationIT    : Starting CreditCalibrationIT using Java 23.0.2 with PID 35009 (started by haojunpan in /Users/haojunpan/Desktop/????/project/ai/ai-agents-from-zero/????-????????/????-????/????/campus-dash-backend/dash-bootstrap)
+2026-10-20T20:12:54.506+08:00  INFO 35009 --- [campus-dash] [           main] com.campusdash.it.CreditCalibrationIT    : No active profile set, falling back to 1 default profile: "default"
+2026-10-20T20:12:54.595+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2026-10-20T20:12:54.595+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2026-10-20T20:12:54.600+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 4 ms. Found 0 Redis repository interfaces.
+2026-10-20T20:12:54.637+08:00  INFO 35009 --- [campus-dash] [           main] org.redisson.Version                     : Redisson 3.22.0
+2026-10-20T20:12:54.644+08:00  INFO 35009 --- [campus-dash] [sson-netty-46-4] o.r.c.pool.MasterPubSubConnectionPool    : 1 connections initialized for 127.0.0.1/127.0.0.1:6380
+2026-10-20T20:12:54.658+08:00  INFO 35009 --- [campus-dash] [son-netty-46-11] o.r.c.pool.MasterConnectionPool          : 4 connections initialized for 127.0.0.1/127.0.0.1:6380
+2026-10-20T20:12:54.747+08:00  INFO 35009 --- [campus-dash] [           main] com.campusdash.it.CreditCalibrationIT    : Started CreditCalibrationIT in 0.25 seconds (process running for 20.773)
+2026-10-20T20:12:54.749+08:00  INFO 35009 --- [campus-dash] [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-6 - Starting...
+2026-10-20T20:12:54.753+08:00  INFO 35009 --- [campus-dash] [           main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-6 - Added connection com.mysql.cj.jdbc.ConnectionImpl@9d2ddb1
+2026-10-20T20:12:54.753+08:00  INFO 35009 --- [campus-dash] [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-6 - Start completed.
+2026-10-20T20:12:54.770+08:00  INFO 35009 --- [campus-dash] [           main] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.campusdash.it.BackdoorDisabledIT]: BackdoorDisabledIT does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2026-10-20T20:12:54.770+08:00  INFO 35009 --- [campus-dash] [           main] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.campusdash.CampusDashApplication for test class com.campusdash.it.BackdoorDisabledIT
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.5.8)
+
+2026-10-20T20:12:54.787+08:00  INFO 35009 --- [campus-dash] [           main] com.campusdash.it.BackdoorDisabledIT     : Starting BackdoorDisabledIT using Java 23.0.2 with PID 35009 (started by haojunpan in /Users/haojunpan/Desktop/????/project/ai/ai-agents-from-zero/????-????????/????-????/????/campus-dash-backend/dash-bootstrap)
+2026-10-20T20:12:54.787+08:00  INFO 35009 --- [campus-dash] [           main] com.campusdash.it.BackdoorDisabledIT     : The following 1 profile is active: "test"
+2026-10-20T20:12:54.868+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2026-10-20T20:12:54.868+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2026-10-20T20:12:54.875+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 6 ms. Found 0 Redis repository interfaces.
+2026-10-20T20:12:54.989+08:00  INFO 35009 --- [campus-dash] [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 0 (http)
+2026-10-20T20:12:55.003+08:00  INFO 35009 --- [campus-dash] [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-10-20T20:12:55.003+08:00  INFO 35009 --- [campus-dash] [           main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.49]
+2026-10-20T20:12:55.056+08:00  INFO 35009 --- [campus-dash] [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2026-10-20T20:12:55.057+08:00  INFO 35009 --- [campus-dash] [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 269 ms
+2026-10-20T20:12:55.112+08:00  INFO 35009 --- [campus-dash] [           main] org.redisson.Version                     : Redisson 3.22.0
+2026-10-20T20:12:55.116+08:00  INFO 35009 --- [campus-dash] [sson-netty-51-4] o.r.c.pool.MasterPubSubConnectionPool    : 1 connections initialized for 127.0.0.1/127.0.0.1:6380
+2026-10-20T20:12:55.121+08:00  INFO 35009 --- [campus-dash] [son-netty-51-11] o.r.c.pool.MasterConnectionPool          : 4 connections initialized for 127.0.0.1/127.0.0.1:6380
+2026-10-20T20:12:55.310+08:00  INFO 35009 --- [campus-dash] [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 57615 (http) with context path '/'
+2026-10-20T20:12:55.312+08:00  INFO 35009 --- [campus-dash] [           main] com.campusdash.it.BackdoorDisabledIT     : Started BackdoorDisabledIT in 0.539 seconds (process running for 21.338)
+2026-10-20T20:12:55.406+08:00  INFO 35009 --- [campus-dash] [o-auto-1-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-10-20T20:12:55.407+08:00  INFO 35009 --- [campus-dash] [o-auto-1-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-10-20T20:12:55.407+08:00  INFO 35009 --- [campus-dash] [o-auto-1-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2026-10-20T20:12:55.524+08:00  INFO 35009 --- [campus-dash] [o-auto-1-exec-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-7 - Starting...
+2026-10-20T20:12:55.529+08:00  INFO 35009 --- [campus-dash] [o-auto-1-exec-3] com.zaxxer.hikari.pool.HikariPool        : HikariPool-7 - Added connection com.mysql.cj.jdbc.ConnectionImpl@f95a8fd
+2026-10-20T20:12:55.529+08:00  INFO 35009 --- [campus-dash] [o-auto-1-exec-3] com.zaxxer.hikari.HikariDataSource       : HikariPool-7 - Start completed.
+2026-10-20T20:12:55.541+08:00  INFO 35009 --- [campus-dash] [           main] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.campusdash.it.TimeoutTransferIT]: TimeoutTransferIT does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2026-10-20T20:12:55.542+08:00  INFO 35009 --- [campus-dash] [           main] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.campusdash.CampusDashApplication for test class com.campusdash.it.TimeoutTransferIT
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.5.8)
+
+2026-10-20T20:12:55.563+08:00  INFO 35009 --- [campus-dash] [           main] com.campusdash.it.TimeoutTransferIT      : Starting TimeoutTransferIT using Java 23.0.2 with PID 35009 (started by haojunpan in /Users/haojunpan/Desktop/????/project/ai/ai-agents-from-zero/????-????????/????-????/????/campus-dash-backend/dash-bootstrap)
+2026-10-20T20:12:55.563+08:00  INFO 35009 --- [campus-dash] [           main] com.campusdash.it.TimeoutTransferIT      : No active profile set, falling back to 1 default profile: "default"
+2026-10-20T20:12:55.662+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2026-10-20T20:12:55.662+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2026-10-20T20:12:55.667+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 4 ms. Found 0 Redis repository interfaces.
+2026-10-20T20:12:55.695+08:00  INFO 35009 --- [campus-dash] [           main] org.redisson.Version                     : Redisson 3.22.0
+2026-10-20T20:12:55.762+08:00  INFO 35009 --- [campus-dash] [sson-netty-57-6] o.r.c.pool.MasterPubSubConnectionPool    : 1 connections initialized for 127.0.0.1/127.0.0.1:6380
+2026-10-20T20:12:55.843+08:00  INFO 35009 --- [campus-dash] [son-netty-57-11] o.r.c.pool.MasterConnectionPool          : 4 connections initialized for 127.0.0.1/127.0.0.1:6380
+2026-10-20T20:12:55.908+08:00  INFO 35009 --- [campus-dash] [           main] com.campusdash.it.TimeoutTransferIT      : Started TimeoutTransferIT in 0.355 seconds (process running for 21.935)
+2026-10-20T20:12:55.910+08:00  INFO 35009 --- [campus-dash] [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-8 - Starting...
+2026-10-20T20:12:55.914+08:00  INFO 35009 --- [campus-dash] [           main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-8 - Added connection com.mysql.cj.jdbc.ConnectionImpl@375d6aa
+2026-10-20T20:12:55.915+08:00  INFO 35009 --- [campus-dash] [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-8 - Start completed.
+2026-10-20T20:12:56.059+08:00  INFO 35009 --- [campus-dash] [           main] c.c.a.usecase.TimeoutTransferUseCase     : ????? errandId=238273276424491008 round=1 -> nextRunner=2002
+2026-10-20T20:12:56.120+08:00  INFO 35009 --- [campus-dash] [           main] c.c.a.usecase.TimeoutTransferUseCase     : ????? errandId=238273276684537856 round=1 -> nextRunner=2032
+2026-10-20T20:12:56.186+08:00  INFO 35009 --- [campus-dash] [           main] c.c.a.usecase.TimeoutTransferUseCase     : ??????????????? errandId=238273277078802432
+2026-10-20T20:12:56.262+08:00  INFO 35009 --- [campus-dash] [pool-7-thread-2] c.c.a.usecase.TimeoutTransferUseCase     : ????? errandId=238273277330460672 round=1 -> nextRunner=2201
+2026-10-20T20:12:56.305+08:00  INFO 35009 --- [campus-dash] [pool-8-thread-2] c.c.a.usecase.TimeoutTransferUseCase     : ????? errandId=238273277515010048 round=1 -> nextRunner=2202
+2026-10-20T20:12:56.352+08:00  INFO 35009 --- [campus-dash] [pool-9-thread-2] c.c.a.usecase.TimeoutTransferUseCase     : ????? errandId=238273277695365120 round=1 -> nextRunner=2203
+2026-10-20T20:12:56.407+08:00  INFO 35009 --- [campus-dash] [ool-10-thread-2] c.c.a.usecase.TimeoutTransferUseCase     : ????? errandId=238273277892497408 round=1 -> nextRunner=2204
+2026-10-20T20:12:56.450+08:00  INFO 35009 --- [campus-dash] [ool-11-thread-2] c.c.a.usecase.TimeoutTransferUseCase     : ????? errandId=238273278118989824 round=1 -> nextRunner=2205
+2026-10-20T20:12:56.492+08:00  INFO 35009 --- [campus-dash] [ool-12-thread-2] c.c.a.usecase.TimeoutTransferUseCase     : ????? errandId=238273278303539200 round=1 -> nextRunner=2206
+2026-10-20T20:12:56.535+08:00  INFO 35009 --- [campus-dash] [ool-13-thread-2] c.c.a.usecase.TimeoutTransferUseCase     : ????? errandId=238273278475505664 round=1 -> nextRunner=2207
+2026-10-20T20:12:56.581+08:00  INFO 35009 --- [campus-dash] [ool-14-thread-2] c.c.a.usecase.TimeoutTransferUseCase     : ????? errandId=238273278660055040 round=1 -> nextRunner=2208
+2026-10-20T20:12:56.642+08:00  INFO 35009 --- [campus-dash] [ool-15-thread-2] c.c.a.usecase.TimeoutTransferUseCase     : ????? errandId=238273278852993024 round=1 -> nextRunner=2209
+2026-10-20T20:12:56.688+08:00  INFO 35009 --- [campus-dash] [ool-16-thread-2] c.c.a.usecase.TimeoutTransferUseCase     : ????? errandId=238273279108845568 round=1 -> nextRunner=2210
+2026-10-20T20:12:56.738+08:00  INFO 35009 --- [campus-dash] [ool-17-thread-2] c.c.a.usecase.TimeoutTransferUseCase     : ????? errandId=238273279301783552 round=1 -> nextRunner=2211
+2026-10-20T20:12:56.787+08:00  INFO 35009 --- [campus-dash] [ool-18-thread-2] c.c.a.usecase.TimeoutTransferUseCase     : ????? errandId=238273279511498752 round=1 -> nextRunner=2212
+2026-10-20T20:12:56.840+08:00  INFO 35009 --- [campus-dash] [ool-19-thread-2] c.c.a.usecase.TimeoutTransferUseCase     : ????? errandId=238273279712825344 round=1 -> nextRunner=2213
+2026-10-20T20:12:56.890+08:00  INFO 35009 --- [campus-dash] [ool-20-thread-2] c.c.a.usecase.TimeoutTransferUseCase     : ????? errandId=238273279939317760 round=1 -> nextRunner=2214
+2026-10-20T20:12:56.939+08:00  INFO 35009 --- [campus-dash] [ool-21-thread-2] c.c.a.usecase.TimeoutTransferUseCase     : ????? errandId=238273280149032960 round=1 -> nextRunner=2215
+2026-10-20T20:12:56.989+08:00  INFO 35009 --- [campus-dash] [ool-22-thread-2] c.c.a.usecase.TimeoutTransferUseCase     : ????? errandId=238273280350359552 round=1 -> nextRunner=2216
+2026-10-20T20:12:57.036+08:00  INFO 35009 --- [campus-dash] [ool-23-thread-2] c.c.a.usecase.TimeoutTransferUseCase     : ????? errandId=238273280560074752 round=1 -> nextRunner=2217
+2026-10-20T20:12:57.083+08:00  INFO 35009 --- [campus-dash] [ool-24-thread-2] c.c.a.usecase.TimeoutTransferUseCase     : ????? errandId=238273280761401344 round=1 -> nextRunner=2218
+2026-10-20T20:12:57.132+08:00  INFO 35009 --- [campus-dash] [ool-25-thread-2] c.c.a.usecase.TimeoutTransferUseCase     : ????? errandId=238273280958533632 round=1 -> nextRunner=2219
+2026-10-20T20:12:57.180+08:00  INFO 35009 --- [campus-dash] [ool-26-thread-2] c.c.a.usecase.TimeoutTransferUseCase     : ????? errandId=238273281159860224 round=1 -> nextRunner=2220
+2026-10-20T20:12:57.234+08:00  INFO 35009 --- [campus-dash] [ool-27-thread-2] c.c.a.usecase.TimeoutTransferUseCase     : ????? errandId=238273281365381120 round=1 -> nextRunner=2221
+2026-10-20T20:12:57.285+08:00  INFO 35009 --- [campus-dash] [ool-28-thread-2] c.c.a.usecase.TimeoutTransferUseCase     : ????? errandId=238273281591873536 round=1 -> nextRunner=2222
+2026-10-20T20:12:57.333+08:00  INFO 35009 --- [campus-dash] [ool-29-thread-2] c.c.a.usecase.TimeoutTransferUseCase     : ????? errandId=238273281801588736 round=1 -> nextRunner=2223
+2026-10-20T20:12:57.385+08:00  INFO 35009 --- [campus-dash] [ool-30-thread-2] c.c.a.usecase.TimeoutTransferUseCase     : ????? errandId=238273282007109632 round=1 -> nextRunner=2224
+2026-10-20T20:12:57.438+08:00  INFO 35009 --- [campus-dash] [ool-31-thread-2] c.c.a.usecase.TimeoutTransferUseCase     : ????? errandId=238273282221019136 round=1 -> nextRunner=2225
+2026-10-20T20:12:57.490+08:00  INFO 35009 --- [campus-dash] [ool-32-thread-2] c.c.a.usecase.TimeoutTransferUseCase     : ????? errandId=238273282447511552 round=1 -> nextRunner=2226
+2026-10-20T20:12:57.564+08:00  INFO 35009 --- [campus-dash] [ool-33-thread-2] c.c.a.usecase.TimeoutTransferUseCase     : ????? errandId=238273282665615360 round=1 -> nextRunner=2227
+2026-10-20T20:12:57.643+08:00  INFO 35009 --- [campus-dash] [ool-34-thread-2] c.c.a.usecase.TimeoutTransferUseCase     : ????? errandId=238273282975993856 round=1 -> nextRunner=2228
+2026-10-20T20:12:57.703+08:00  INFO 35009 --- [campus-dash] [ool-35-thread-2] c.c.a.usecase.TimeoutTransferUseCase     : ????? errandId=238273283307343872 round=1 -> nextRunner=2229
+2026-10-20T20:12:57.755+08:00  INFO 35009 --- [campus-dash] [ool-36-thread-2] c.c.a.usecase.TimeoutTransferUseCase     : ????? errandId=238273283559002112 round=1 -> nextRunner=2230
+[并发竞争] 30 轮：确认胜出=0 流转胜出=30（两者从未同时成功）
+2026-10-20T20:12:57.860+08:00  INFO 35009 --- [campus-dash] [           main] c.c.a.usecase.TimeoutTransferUseCase     : ????? errandId=238273283802271744 round=1 -> nextRunner=2410
+2026-10-20T20:12:57.871+08:00  INFO 35009 --- [campus-dash] [           main] c.c.a.usecase.TimeoutTransferUseCase     : ????? errandId=238273283802271744 round=2 -> nextRunner=2411
+2026-10-20T20:12:57.883+08:00  INFO 35009 --- [campus-dash] [           main] c.c.a.usecase.TimeoutTransferUseCase     : ????? errandId=238273283802271744 round=3 -> nextRunner=2412
+2026-10-20T20:12:57.887+08:00  INFO 35009 --- [campus-dash] [           main] c.c.a.usecase.TimeoutTransferUseCase     : ???????? errandId=238273283802271744 round=3 max=3???????
+2026-10-20T20:12:57.974+08:00  INFO 35009 --- [campus-dash] [           main] c.c.a.usecase.TimeoutTransferUseCase     : ????? errandId=238273284397862912 round=1 -> nextRunner=2042
+2026-10-20T20:12:58.198+08:00  INFO 35009 --- [campus-dash] [           main] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.campusdash.it.CacheEvictionOrderControlIT]: CacheEvictionOrderControlIT does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2026-10-20T20:12:58.199+08:00  INFO 35009 --- [campus-dash] [           main] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.campusdash.CampusDashApplication for test class com.campusdash.it.CacheEvictionOrderControlIT
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.5.8)
+
+2026-10-20T20:12:58.208+08:00  INFO 35009 --- [campus-dash] [           main] c.c.it.CacheEvictionOrderControlIT       : Starting CacheEvictionOrderControlIT using Java 23.0.2 with PID 35009 (started by haojunpan in /Users/haojunpan/Desktop/????/project/ai/ai-agents-from-zero/????-????????/????-????/????/campus-dash-backend/dash-bootstrap)
+2026-10-20T20:12:58.208+08:00  INFO 35009 --- [campus-dash] [           main] c.c.it.CacheEvictionOrderControlIT       : No active profile set, falling back to 1 default profile: "default"
+2026-10-20T20:12:58.282+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2026-10-20T20:12:58.282+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2026-10-20T20:12:58.286+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 3 ms. Found 0 Redis repository interfaces.
+2026-10-20T20:12:58.312+08:00  INFO 35009 --- [campus-dash] [           main] org.redisson.Version                     : Redisson 3.22.0
+2026-10-20T20:12:58.315+08:00  INFO 35009 --- [campus-dash] [sson-netty-63-4] o.r.c.pool.MasterPubSubConnectionPool    : 1 connections initialized for 127.0.0.1/127.0.0.1:6380
+2026-10-20T20:12:58.318+08:00  INFO 35009 --- [campus-dash] [son-netty-63-11] o.r.c.pool.MasterConnectionPool          : 4 connections initialized for 127.0.0.1/127.0.0.1:6380
+2026-10-20T20:12:58.375+08:00  INFO 35009 --- [campus-dash] [           main] c.c.it.CacheEvictionOrderControlIT       : Started CacheEvictionOrderControlIT in 0.174 seconds (process running for 24.401)
+2026-10-20T20:12:58.377+08:00  INFO 35009 --- [campus-dash] [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-9 - Starting...
+2026-10-20T20:12:58.380+08:00  INFO 35009 --- [campus-dash] [           main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-9 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2f9f9876
+2026-10-20T20:12:58.381+08:00  INFO 35009 --- [campus-dash] [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-9 - Start completed.
+2026-10-20T20:12:58.870+08:00  INFO 35009 --- [campus-dash] [           main] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.campusdash.it.GrabConcurrencyIT]: GrabConcurrencyIT does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2026-10-20T20:12:58.871+08:00  INFO 35009 --- [campus-dash] [           main] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.campusdash.CampusDashApplication for test class com.campusdash.it.GrabConcurrencyIT
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.5.8)
+
+2026-10-20T20:12:58.885+08:00  INFO 35009 --- [campus-dash] [           main] com.campusdash.it.GrabConcurrencyIT      : Starting GrabConcurrencyIT using Java 23.0.2 with PID 35009 (started by haojunpan in /Users/haojunpan/Desktop/????/project/ai/ai-agents-from-zero/????-????????/????-????/????/campus-dash-backend/dash-bootstrap)
+2026-10-20T20:12:58.885+08:00  INFO 35009 --- [campus-dash] [           main] com.campusdash.it.GrabConcurrencyIT      : No active profile set, falling back to 1 default profile: "default"
+2026-10-20T20:12:58.958+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2026-10-20T20:12:58.958+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2026-10-20T20:12:58.965+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 6 ms. Found 0 Redis repository interfaces.
+2026-10-20T20:12:58.990+08:00  INFO 35009 --- [campus-dash] [           main] org.redisson.Version                     : Redisson 3.22.0
+2026-10-20T20:12:59.020+08:00  INFO 35009 --- [campus-dash] [sson-netty-69-4] o.r.c.pool.MasterPubSubConnectionPool    : 1 connections initialized for 127.0.0.1/127.0.0.1:6380
+2026-10-20T20:12:59.150+08:00  INFO 35009 --- [campus-dash] [son-netty-69-11] o.r.c.pool.MasterConnectionPool          : 4 connections initialized for 127.0.0.1/127.0.0.1:6380
+2026-10-20T20:12:59.203+08:00  INFO 35009 --- [campus-dash] [           main] com.campusdash.it.GrabConcurrencyIT      : Started GrabConcurrencyIT in 0.324 seconds (process running for 25.229)
+2026-10-20T20:12:59.205+08:00  INFO 35009 --- [campus-dash] [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-10 - Starting...
+2026-10-20T20:12:59.213+08:00  INFO 35009 --- [campus-dash] [           main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-10 - Added connection com.mysql.cj.jdbc.ConnectionImpl@e2acc49
+2026-10-20T20:12:59.213+08:00  INFO 35009 --- [campus-dash] [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-10 - Start completed.
+[S1] 并发=2000 成功=1 名额满=26 冲突=0 Redis剩余=0
+2026-10-20T20:12:59.944+08:00  INFO 35009 --- [campus-dash] [           main] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.campusdash.it.GrabResponseRecoveryIT]: GrabResponseRecoveryIT does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2026-10-20T20:12:59.945+08:00  INFO 35009 --- [campus-dash] [           main] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.campusdash.CampusDashApplication for test class com.campusdash.it.GrabResponseRecoveryIT
+2026-10-20T20:13:05.784+08:00  WARN 35009 --- [campus-dash] [           main] c.c.a.usecase.GrabErrandUseCase          : ?????????????? errandId=238273317079879680 requestId=09916a30-5fe9-46f3-83e7-4e45105fef19
+
+java.lang.IllegalStateException: ?????????????
+	at com.campusdash.application.usecase.GrabErrandUseCase.grab(GrabErrandUseCase.java:95) ~[dash-application-1.0.0-SNAPSHOT.jar:na]
+	at com.campusdash.it.GrabResponseRecoveryIT.committed_registration_with_lost_read_does_not_allow_retry_to_reexecute_or_extend_lease(GrabResponseRecoveryIT.java:94) ~[test-classes/:na]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[na:na]
+	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:775) ~[junit-platform-commons-1.12.2.jar:1.12.2]
+	at org.junit.platform.commons.support.ReflectionSupport.invokeMethod(ReflectionSupport.java:479) ~[junit-platform-commons-1.12.2.jar:1.12.2]
+	at org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:161) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:152) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:91) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(InterceptingExecutableInvoker.java:112) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.lambda$invoke$0(InterceptingExecutableInvoker.java:94) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:93) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:87) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$7(TestMethodTestDescriptor.java:216) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:212) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:137) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:69) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:156) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:146) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:144) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:143) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:100) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) ~[na:na]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:160) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:146) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:144) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:143) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:100) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) ~[na:na]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:160) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:146) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:144) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:143) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:100) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:201) ~[junit-platform-launcher-1.12.2.jar:1.12.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:170) ~[junit-platform-launcher-1.12.2.jar:1.12.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:94) ~[junit-platform-launcher-1.12.2.jar:1.12.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:59) ~[junit-platform-launcher-1.12.2.jar:1.12.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:142) ~[junit-platform-launcher-1.12.2.jar:1.12.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:58) ~[junit-platform-launcher-1.12.2.jar:1.12.2]
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:103) ~[junit-platform-launcher-1.12.2.jar:1.12.2]
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:85) ~[junit-platform-launcher-1.12.2.jar:1.12.2]
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:47) ~[junit-platform-launcher-1.12.2.jar:1.12.2]
+	at org.junit.platform.launcher.core.InterceptingLauncher.lambda$execute$1(InterceptingLauncher.java:39) ~[junit-platform-launcher-1.12.2.jar:1.12.2]
+	at org.junit.platform.launcher.core.ClasspathAlignmentCheckingLauncherInterceptor.intercept(ClasspathAlignmentCheckingLauncherInterceptor.java:25) ~[junit-platform-launcher-1.12.2.jar:1.12.2]
+	at org.junit.platform.launcher.core.InterceptingLauncher.execute(InterceptingLauncher.java:38) ~[junit-platform-launcher-1.12.2.jar:1.12.2]
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:47) ~[junit-platform-launcher-1.12.2.jar:1.12.2]
+	at org.apache.maven.surefire.junitplatform.LazyLauncher.execute(LazyLauncher.java:56) ~[surefire-junit-platform-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.execute(JUnitPlatformProvider.java:184) ~[surefire-junit-platform-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invokeAllTests(JUnitPlatformProvider.java:148) ~[surefire-junit-platform-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invoke(JUnitPlatformProvider.java:122) ~[surefire-junit-platform-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385) ~[surefire-booter-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162) ~[surefire-booter-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507) ~[surefire-booter-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495) ~[surefire-booter-3.2.5.jar:3.2.5]
+
+2026-10-20T20:13:05.836+08:00  WARN 35009 --- [campus-dash] [           main] c.c.a.usecase.GrabErrandUseCase          : ???????????? errandId=238273317528670208
+
+java.lang.IllegalStateException: ?????
+	at com.campusdash.application.usecase.GrabErrandUseCase.lambda$afterCommit$0(GrabErrandUseCase.java:180) ~[dash-application-1.0.0-SNAPSHOT.jar:na]
+	at java.base/java.util.Optional.ifPresent(Optional.java:178) ~[na:na]
+	at com.campusdash.application.usecase.GrabErrandUseCase.afterCommit(GrabErrandUseCase.java:180) ~[dash-application-1.0.0-SNAPSHOT.jar:na]
+	at com.campusdash.application.usecase.GrabErrandUseCase.grab(GrabErrandUseCase.java:114) ~[dash-application-1.0.0-SNAPSHOT.jar:na]
+	at com.campusdash.it.GrabResponseRecoveryIT.notification_failure_cannot_revoke_committed_owner(GrabResponseRecoveryIT.java:64) ~[test-classes/:na]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[na:na]
+	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:775) ~[junit-platform-commons-1.12.2.jar:1.12.2]
+	at org.junit.platform.commons.support.ReflectionSupport.invokeMethod(ReflectionSupport.java:479) ~[junit-platform-commons-1.12.2.jar:1.12.2]
+	at org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:161) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:152) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:91) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(InterceptingExecutableInvoker.java:112) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.lambda$invoke$0(InterceptingExecutableInvoker.java:94) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:93) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:87) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$7(TestMethodTestDescriptor.java:216) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:212) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:137) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:69) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:156) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:146) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:144) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:143) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:100) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) ~[na:na]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:160) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:146) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:144) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:143) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:100) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) ~[na:na]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:160) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:146) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:144) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:143) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:100) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:201) ~[junit-platform-launcher-1.12.2.jar:1.12.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:170) ~[junit-platform-launcher-1.12.2.jar:1.12.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:94) ~[junit-platform-launcher-1.12.2.jar:1.12.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:59) ~[junit-platform-launcher-1.12.2.jar:1.12.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:142) ~[junit-platform-launcher-1.12.2.jar:1.12.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:58) ~[junit-platform-launcher-1.12.2.jar:1.12.2]
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:103) ~[junit-platform-launcher-1.12.2.jar:1.12.2]
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:85) ~[junit-platform-launcher-1.12.2.jar:1.12.2]
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:47) ~[junit-platform-launcher-1.12.2.jar:1.12.2]
+	at org.junit.platform.launcher.core.InterceptingLauncher.lambda$execute$1(InterceptingLauncher.java:39) ~[junit-platform-launcher-1.12.2.jar:1.12.2]
+	at org.junit.platform.launcher.core.ClasspathAlignmentCheckingLauncherInterceptor.intercept(ClasspathAlignmentCheckingLauncherInterceptor.java:25) ~[junit-platform-launcher-1.12.2.jar:1.12.2]
+	at org.junit.platform.launcher.core.InterceptingLauncher.execute(InterceptingLauncher.java:38) ~[junit-platform-launcher-1.12.2.jar:1.12.2]
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:47) ~[junit-platform-launcher-1.12.2.jar:1.12.2]
+	at org.apache.maven.surefire.junitplatform.LazyLauncher.execute(LazyLauncher.java:56) ~[surefire-junit-platform-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.execute(JUnitPlatformProvider.java:184) ~[surefire-junit-platform-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invokeAllTests(JUnitPlatformProvider.java:148) ~[surefire-junit-platform-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invoke(JUnitPlatformProvider.java:122) ~[surefire-junit-platform-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385) ~[surefire-booter-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162) ~[surefire-booter-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507) ~[surefire-booter-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495) ~[surefire-booter-3.2.5.jar:3.2.5]
+
+2026-10-20T20:13:05.862+08:00  WARN 35009 --- [campus-dash] [           main] c.c.a.usecase.GrabErrandUseCase          : ?????????????? errandId=238273317683859456 requestId=420878fd-1258-4665-b687-7d49f260022d
+
+java.lang.IllegalStateException: ?????????????????
+	at com.campusdash.it.GrabResponseRecoveryIT.lambda$committed_transaction_response_error_is_recovered_as_success$0(GrabResponseRecoveryIT.java:55) ~[test-classes/:na]
+	at org.mockito.internal.stubbing.StubbedInvocationMatcher.answer(StubbedInvocationMatcher.java:42) ~[mockito-core-5.17.0.jar:na]
+	at org.mockito.internal.handler.MockHandlerImpl.handle(MockHandlerImpl.java:103) ~[mockito-core-5.17.0.jar:na]
+	at org.mockito.internal.handler.NullResultGuardian.handle(NullResultGuardian.java:29) ~[mockito-core-5.17.0.jar:na]
+	at org.mockito.internal.handler.InvocationNotifierHandler.handle(InvocationNotifierHandler.java:34) ~[mockito-core-5.17.0.jar:na]
+	at org.mockito.internal.creation.bytebuddy.access.MockMethodInterceptor.doIntercept(MockMethodInterceptor.java:84) ~[mockito-core-5.17.0.jar:na]
+	at org.mockito.internal.creation.bytebuddy.MockMethodAdvice.handle(MockMethodAdvice.java:136) ~[mockito-core-5.17.0.jar:na]
+	at com.campusdash.application.usecase.GrabTransactionalStep.lockAndRecord(GrabTransactionalStep.java:34) ~[dash-application-1.0.0-SNAPSHOT.jar:na]
+	at com.campusdash.application.usecase.GrabErrandUseCase.grab(GrabErrandUseCase.java:111) ~[dash-application-1.0.0-SNAPSHOT.jar:na]
+	at com.campusdash.it.GrabResponseRecoveryIT.committed_transaction_response_error_is_recovered_as_success(GrabResponseRecoveryIT.java:56) ~[test-classes/:na]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[na:na]
+	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:775) ~[junit-platform-commons-1.12.2.jar:1.12.2]
+	at org.junit.platform.commons.support.ReflectionSupport.invokeMethod(ReflectionSupport.java:479) ~[junit-platform-commons-1.12.2.jar:1.12.2]
+	at org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:161) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:152) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:91) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(InterceptingExecutableInvoker.java:112) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.lambda$invoke$0(InterceptingExecutableInvoker.java:94) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:93) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:87) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$7(TestMethodTestDescriptor.java:216) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:212) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:137) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:69) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:156) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:146) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:144) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:143) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:100) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) ~[na:na]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:160) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:146) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:144) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:143) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:100) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) ~[na:na]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:160) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:146) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:144) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:143) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:100) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:201) ~[junit-platform-launcher-1.12.2.jar:1.12.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:170) ~[junit-platform-launcher-1.12.2.jar:1.12.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:94) ~[junit-platform-launcher-1.12.2.jar:1.12.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:59) ~[junit-platform-launcher-1.12.2.jar:1.12.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:142) ~[junit-platform-launcher-1.12.2.jar:1.12.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:58) ~[junit-platform-launcher-1.12.2.jar:1.12.2]
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:103) ~[junit-platform-launcher-1.12.2.jar:1.12.2]
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:85) ~[junit-platform-launcher-1.12.2.jar:1.12.2]
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:47) ~[junit-platform-launcher-1.12.2.jar:1.12.2]
+	at org.junit.platform.launcher.core.InterceptingLauncher.lambda$execute$1(InterceptingLauncher.java:39) ~[junit-platform-launcher-1.12.2.jar:1.12.2]
+	at org.junit.platform.launcher.core.ClasspathAlignmentCheckingLauncherInterceptor.intercept(ClasspathAlignmentCheckingLauncherInterceptor.java:25) ~[junit-platform-launcher-1.12.2.jar:1.12.2]
+	at org.junit.platform.launcher.core.InterceptingLauncher.execute(InterceptingLauncher.java:38) ~[junit-platform-launcher-1.12.2.jar:1.12.2]
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:47) ~[junit-platform-launcher-1.12.2.jar:1.12.2]
+	at org.apache.maven.surefire.junitplatform.LazyLauncher.execute(LazyLauncher.java:56) ~[surefire-junit-platform-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.execute(JUnitPlatformProvider.java:184) ~[surefire-junit-platform-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invokeAllTests(JUnitPlatformProvider.java:148) ~[surefire-junit-platform-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invoke(JUnitPlatformProvider.java:122) ~[surefire-junit-platform-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385) ~[surefire-booter-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162) ~[surefire-booter-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507) ~[surefire-booter-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495) ~[surefire-booter-3.2.5.jar:3.2.5]
+
+2026-10-20T20:13:05.979+08:00  WARN 35009 --- [campus-dash] [           main] c.c.a.usecase.GrabErrandUseCase          : ?????????????? errandId=238273318182981632 requestId=34482107-4320-4e24-93bd-cc1f439d7933
+
+java.lang.IllegalStateException: Redis???
+	at com.campusdash.application.usecase.GrabErrandUseCase.grab(GrabErrandUseCase.java:108) ~[dash-application-1.0.0-SNAPSHOT.jar:na]
+	at com.campusdash.it.GrabResponseRecoveryIT.redis_failure_after_registration_is_503_and_original_identity_is_preserved(GrabResponseRecoveryIT.java:71) ~[test-classes/:na]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[na:na]
+	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:775) ~[junit-platform-commons-1.12.2.jar:1.12.2]
+	at org.junit.platform.commons.support.ReflectionSupport.invokeMethod(ReflectionSupport.java:479) ~[junit-platform-commons-1.12.2.jar:1.12.2]
+	at org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:161) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:152) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:91) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(InterceptingExecutableInvoker.java:112) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.lambda$invoke$0(InterceptingExecutableInvoker.java:94) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:93) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:87) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$7(TestMethodTestDescriptor.java:216) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:212) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:137) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:69) ~[junit-jupiter-engine-5.12.2.jar:5.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:156) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:146) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:144) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:143) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:100) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) ~[na:na]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:160) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:146) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:144) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:143) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:100) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) ~[na:na]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:160) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:146) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:144) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:143) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:100) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54) ~[junit-platform-engine-1.12.2.jar:1.12.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:201) ~[junit-platform-launcher-1.12.2.jar:1.12.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:170) ~[junit-platform-launcher-1.12.2.jar:1.12.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:94) ~[junit-platform-launcher-1.12.2.jar:1.12.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:59) ~[junit-platform-launcher-1.12.2.jar:1.12.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:142) ~[junit-platform-launcher-1.12.2.jar:1.12.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:58) ~[junit-platform-launcher-1.12.2.jar:1.12.2]
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:103) ~[junit-platform-launcher-1.12.2.jar:1.12.2]
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:85) ~[junit-platform-launcher-1.12.2.jar:1.12.2]
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:47) ~[junit-platform-launcher-1.12.2.jar:1.12.2]
+	at org.junit.platform.launcher.core.InterceptingLauncher.lambda$execute$1(InterceptingLauncher.java:39) ~[junit-platform-launcher-1.12.2.jar:1.12.2]
+	at org.junit.platform.launcher.core.ClasspathAlignmentCheckingLauncherInterceptor.intercept(ClasspathAlignmentCheckingLauncherInterceptor.java:25) ~[junit-platform-launcher-1.12.2.jar:1.12.2]
+	at org.junit.platform.launcher.core.InterceptingLauncher.execute(InterceptingLauncher.java:38) ~[junit-platform-launcher-1.12.2.jar:1.12.2]
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:47) ~[junit-platform-launcher-1.12.2.jar:1.12.2]
+	at org.apache.maven.surefire.junitplatform.LazyLauncher.execute(LazyLauncher.java:56) ~[surefire-junit-platform-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.execute(JUnitPlatformProvider.java:184) ~[surefire-junit-platform-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invokeAllTests(JUnitPlatformProvider.java:148) ~[surefire-junit-platform-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invoke(JUnitPlatformProvider.java:122) ~[surefire-junit-platform-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385) ~[surefire-booter-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162) ~[surefire-booter-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507) ~[surefire-booter-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495) ~[surefire-booter-3.2.5.jar:3.2.5]
+
+2026-10-20T20:13:06.003+08:00  INFO 35009 --- [campus-dash] [           main] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.campusdash.it.AuthRefreshIT]: AuthRefreshIT does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2026-10-20T20:13:06.004+08:00  INFO 35009 --- [campus-dash] [           main] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.campusdash.CampusDashApplication for test class com.campusdash.it.AuthRefreshIT
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.5.8)
+
+2026-10-20T20:13:06.014+08:00  INFO 35009 --- [campus-dash] [           main] com.campusdash.it.AuthRefreshIT          : Starting AuthRefreshIT using Java 23.0.2 with PID 35009 (started by haojunpan in /Users/haojunpan/Desktop/????/project/ai/ai-agents-from-zero/????-????????/????-????/????/campus-dash-backend/dash-bootstrap)
+2026-10-20T20:13:06.014+08:00  INFO 35009 --- [campus-dash] [           main] com.campusdash.it.AuthRefreshIT          : The following 1 profile is active: "test"
+2026-10-20T20:13:06.088+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2026-10-20T20:13:06.088+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2026-10-20T20:13:06.092+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 3 ms. Found 0 Redis repository interfaces.
+2026-10-20T20:13:06.111+08:00  INFO 35009 --- [campus-dash] [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 0 (http)
+2026-10-20T20:13:06.112+08:00  INFO 35009 --- [campus-dash] [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-10-20T20:13:06.112+08:00  INFO 35009 --- [campus-dash] [           main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.49]
+2026-10-20T20:13:06.136+08:00  INFO 35009 --- [campus-dash] [           main] o.a.c.c.C.[Tomcat-1].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2026-10-20T20:13:06.136+08:00  INFO 35009 --- [campus-dash] [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 121 ms
+2026-10-20T20:13:06.150+08:00  INFO 35009 --- [campus-dash] [           main] org.redisson.Version                     : Redisson 3.22.0
+2026-10-20T20:13:06.152+08:00  INFO 35009 --- [campus-dash] [sson-netty-75-4] o.r.c.pool.MasterPubSubConnectionPool    : 1 connections initialized for 127.0.0.1/127.0.0.1:6380
+2026-10-20T20:13:06.155+08:00  INFO 35009 --- [campus-dash] [son-netty-75-11] o.r.c.pool.MasterConnectionPool          : 4 connections initialized for 127.0.0.1/127.0.0.1:6380
+2026-10-20T20:13:06.206+08:00  INFO 35009 --- [campus-dash] [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 57865 (http) with context path '/'
+2026-10-20T20:13:06.208+08:00  INFO 35009 --- [campus-dash] [           main] com.campusdash.it.AuthRefreshIT          : Started AuthRefreshIT in 0.202 seconds (process running for 32.234)
+2026-10-20T20:13:06.212+08:00  INFO 35009 --- [campus-dash] [o-auto-2-exec-1] o.a.c.c.C.[Tomcat-1].[localhost].[/]     : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-10-20T20:13:06.212+08:00  INFO 35009 --- [campus-dash] [o-auto-2-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-10-20T20:13:06.212+08:00  INFO 35009 --- [campus-dash] [o-auto-2-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2026-10-20T20:13:06.246+08:00  INFO 35009 --- [campus-dash] [           main] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.campusdash.it.SettlementIT]: SettlementIT does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2026-10-20T20:13:06.247+08:00  INFO 35009 --- [campus-dash] [           main] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.campusdash.CampusDashApplication for test class com.campusdash.it.SettlementIT
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.5.8)
+
+2026-10-20T20:13:06.268+08:00  INFO 35009 --- [campus-dash] [           main] com.campusdash.it.SettlementIT           : Starting SettlementIT using Java 23.0.2 with PID 35009 (started by haojunpan in /Users/haojunpan/Desktop/????/project/ai/ai-agents-from-zero/????-????????/????-????/????/campus-dash-backend/dash-bootstrap)
+2026-10-20T20:13:06.268+08:00  INFO 35009 --- [campus-dash] [           main] com.campusdash.it.SettlementIT           : No active profile set, falling back to 1 default profile: "default"
+2026-10-20T20:13:06.340+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2026-10-20T20:13:06.340+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2026-10-20T20:13:06.344+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 3 ms. Found 0 Redis repository interfaces.
+2026-10-20T20:13:06.371+08:00  INFO 35009 --- [campus-dash] [           main] org.redisson.Version                     : Redisson 3.22.0
+2026-10-20T20:13:06.374+08:00  INFO 35009 --- [campus-dash] [sson-netty-81-4] o.r.c.pool.MasterPubSubConnectionPool    : 1 connections initialized for 127.0.0.1/127.0.0.1:6380
+2026-10-20T20:13:06.378+08:00  INFO 35009 --- [campus-dash] [son-netty-81-11] o.r.c.pool.MasterConnectionPool          : 4 connections initialized for 127.0.0.1/127.0.0.1:6380
+2026-10-20T20:13:06.447+08:00  INFO 35009 --- [campus-dash] [           main] com.campusdash.it.SettlementIT           : Started SettlementIT in 0.186 seconds (process running for 32.474)
+2026-10-20T20:13:06.452+08:00  INFO 35009 --- [campus-dash] [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-11 - Starting...
+2026-10-20T20:13:06.457+08:00  INFO 35009 --- [campus-dash] [           main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-11 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5a1239b2
+2026-10-20T20:13:06.457+08:00  INFO 35009 --- [campus-dash] [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-11 - Start completed.
+2026-10-20T20:13:06.660+08:00  INFO 35009 --- [campus-dash] [           main] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.campusdash.it.TransactionPitfallIT]: TransactionPitfallIT does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2026-10-20T20:13:06.661+08:00  INFO 35009 --- [campus-dash] [           main] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.campusdash.CampusDashApplication for test class com.campusdash.it.TransactionPitfallIT
+2026-10-20T20:13:06.710+08:00  INFO 35009 --- [campus-dash] [imeout-thread-1] com.zaxxer.hikari.HikariDataSource       : pitfall-tiny-pool - Starting...
+2026-10-20T20:13:06.713+08:00  INFO 35009 --- [campus-dash] [imeout-thread-1] com.zaxxer.hikari.pool.HikariPool        : pitfall-tiny-pool - Added connection com.mysql.cj.jdbc.ConnectionImpl@3938e820
+2026-10-20T20:13:06.713+08:00  INFO 35009 --- [campus-dash] [imeout-thread-1] com.zaxxer.hikari.HikariDataSource       : pitfall-tiny-pool - Start completed.
+[连接池死锁] 池=2 并发=4 成功=0 连接耗尽=4
+2026-10-20T20:13:09.088+08:00  INFO 35009 --- [campus-dash] [imeout-thread-1] com.zaxxer.hikari.HikariDataSource       : pitfall-tiny-pool - Shutdown initiated...
+2026-10-20T20:13:09.091+08:00  INFO 35009 --- [campus-dash] [imeout-thread-1] com.zaxxer.hikari.HikariDataSource       : pitfall-tiny-pool - Shutdown completed.
+2026-10-20T20:13:09.199+08:00  INFO 35009 --- [campus-dash] [           main] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.campusdash.it.GrabHttpContractIT]: GrabHttpContractIT does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2026-10-20T20:13:09.205+08:00  INFO 35009 --- [campus-dash] [           main] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.campusdash.CampusDashApplication for test class com.campusdash.it.GrabHttpContractIT
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.5.8)
+
+2026-10-20T20:13:09.224+08:00  INFO 35009 --- [campus-dash] [           main] com.campusdash.it.GrabHttpContractIT     : Starting GrabHttpContractIT using Java 23.0.2 with PID 35009 (started by haojunpan in /Users/haojunpan/Desktop/????/project/ai/ai-agents-from-zero/????-????????/????-????/????/campus-dash-backend/dash-bootstrap)
+2026-10-20T20:13:09.224+08:00  INFO 35009 --- [campus-dash] [           main] com.campusdash.it.GrabHttpContractIT     : The following 1 profile is active: "test"
+2026-10-20T20:13:09.299+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2026-10-20T20:13:09.299+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2026-10-20T20:13:09.303+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 3 ms. Found 0 Redis repository interfaces.
+2026-10-20T20:13:09.330+08:00  INFO 35009 --- [campus-dash] [           main] org.redisson.Version                     : Redisson 3.22.0
+2026-10-20T20:13:09.333+08:00  INFO 35009 --- [campus-dash] [sson-netty-87-4] o.r.c.pool.MasterPubSubConnectionPool    : 1 connections initialized for 127.0.0.1/127.0.0.1:6380
+2026-10-20T20:13:09.339+08:00  INFO 35009 --- [campus-dash] [son-netty-87-11] o.r.c.pool.MasterConnectionPool          : 4 connections initialized for 127.0.0.1/127.0.0.1:6380
+2026-10-20T20:13:09.394+08:00  INFO 35009 --- [campus-dash] [           main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2026-10-20T20:13:09.394+08:00  INFO 35009 --- [campus-dash] [           main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2026-10-20T20:13:09.394+08:00  INFO 35009 --- [campus-dash] [           main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 0 ms
+2026-10-20T20:13:09.399+08:00  INFO 35009 --- [campus-dash] [           main] com.campusdash.it.GrabHttpContractIT     : Started GrabHttpContractIT in 0.183 seconds (process running for 35.425)
+2026-10-20T20:13:09.404+08:00  INFO 35009 --- [campus-dash] [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-12 - Starting...
+2026-10-20T20:13:09.411+08:00  INFO 35009 --- [campus-dash] [           main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-12 - Added connection com.mysql.cj.jdbc.ConnectionImpl@62edef46
+2026-10-20T20:13:09.411+08:00  INFO 35009 --- [campus-dash] [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-12 - Start completed.
+2026-10-20T20:13:09.852+08:00  INFO 35009 --- [campus-dash] [           main] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.campusdash.it.CursorPaginationIT]: CursorPaginationIT does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2026-10-20T20:13:09.852+08:00  INFO 35009 --- [campus-dash] [           main] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.campusdash.CampusDashApplication for test class com.campusdash.it.CursorPaginationIT
+2026-10-20T20:13:09.871+08:00  INFO 35009 --- [campus-dash] [           main] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.campusdash.it.ApiEndpointIT]: ApiEndpointIT does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2026-10-20T20:13:09.872+08:00  INFO 35009 --- [campus-dash] [           main] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.campusdash.CampusDashApplication for test class com.campusdash.it.ApiEndpointIT
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.5.8)
+
+2026-10-20T20:13:09.882+08:00  INFO 35009 --- [campus-dash] [           main] com.campusdash.it.ApiEndpointIT          : Starting ApiEndpointIT using Java 23.0.2 with PID 35009 (started by haojunpan in /Users/haojunpan/Desktop/????/project/ai/ai-agents-from-zero/????-????????/????-????/????/campus-dash-backend/dash-bootstrap)
+2026-10-20T20:13:09.882+08:00  INFO 35009 --- [campus-dash] [           main] com.campusdash.it.ApiEndpointIT          : The following 1 profile is active: "test"
+2026-10-20T20:13:09.955+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2026-10-20T20:13:09.955+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2026-10-20T20:13:09.959+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 3 ms. Found 0 Redis repository interfaces.
+2026-10-20T20:13:09.980+08:00  INFO 35009 --- [campus-dash] [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 0 (http)
+2026-10-20T20:13:09.986+08:00  INFO 35009 --- [campus-dash] [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-10-20T20:13:09.986+08:00  INFO 35009 --- [campus-dash] [           main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.49]
+2026-10-20T20:13:10.001+08:00  INFO 35009 --- [campus-dash] [           main] o.a.c.c.C.[Tomcat-2].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2026-10-20T20:13:10.001+08:00  INFO 35009 --- [campus-dash] [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 118 ms
+2026-10-20T20:13:10.019+08:00  INFO 35009 --- [campus-dash] [           main] org.redisson.Version                     : Redisson 3.22.0
+2026-10-20T20:13:10.023+08:00  INFO 35009 --- [campus-dash] [sson-netty-93-4] o.r.c.pool.MasterPubSubConnectionPool    : 1 connections initialized for 127.0.0.1/127.0.0.1:6380
+2026-10-20T20:13:10.027+08:00  INFO 35009 --- [campus-dash] [son-netty-93-11] o.r.c.pool.MasterConnectionPool          : 4 connections initialized for 127.0.0.1/127.0.0.1:6380
+2026-10-20T20:13:10.079+08:00  INFO 35009 --- [campus-dash] [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 57941 (http) with context path '/'
+2026-10-20T20:13:10.080+08:00  INFO 35009 --- [campus-dash] [           main] com.campusdash.it.ApiEndpointIT          : Started ApiEndpointIT in 0.205 seconds (process running for 36.107)
+2026-10-20T20:13:10.084+08:00  INFO 35009 --- [campus-dash] [o-auto-3-exec-1] o.a.c.c.C.[Tomcat-2].[localhost].[/]     : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-10-20T20:13:10.084+08:00  INFO 35009 --- [campus-dash] [o-auto-3-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-10-20T20:13:10.084+08:00  INFO 35009 --- [campus-dash] [o-auto-3-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2026-10-20T20:13:10.086+08:00  INFO 35009 --- [campus-dash] [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-13 - Starting...
+2026-10-20T20:13:10.089+08:00  INFO 35009 --- [campus-dash] [           main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-13 - Added connection com.mysql.cj.jdbc.ConnectionImpl@46c635d
+2026-10-20T20:13:10.089+08:00  INFO 35009 --- [campus-dash] [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-13 - Start completed.
+2026-10-20T20:13:10.574+08:00  INFO 35009 --- [campus-dash] [           main] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.campusdash.it.CreditIT]: CreditIT does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2026-10-20T20:13:10.576+08:00  INFO 35009 --- [campus-dash] [           main] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.campusdash.CampusDashApplication for test class com.campusdash.it.CreditIT
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.5.8)
+
+2026-10-20T20:13:10.594+08:00  INFO 35009 --- [campus-dash] [           main] com.campusdash.it.CreditIT               : Starting CreditIT using Java 23.0.2 with PID 35009 (started by haojunpan in /Users/haojunpan/Desktop/????/project/ai/ai-agents-from-zero/????-????????/????-????/????/campus-dash-backend/dash-bootstrap)
+2026-10-20T20:13:10.594+08:00  INFO 35009 --- [campus-dash] [           main] com.campusdash.it.CreditIT               : No active profile set, falling back to 1 default profile: "default"
+2026-10-20T20:13:10.674+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2026-10-20T20:13:10.674+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2026-10-20T20:13:10.683+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 8 ms. Found 0 Redis repository interfaces.
+2026-10-20T20:13:10.731+08:00  INFO 35009 --- [campus-dash] [           main] org.redisson.Version                     : Redisson 3.22.0
+2026-10-20T20:13:10.747+08:00  INFO 35009 --- [campus-dash] [sson-netty-99-4] o.r.c.pool.MasterPubSubConnectionPool    : 1 connections initialized for 127.0.0.1/127.0.0.1:6380
+2026-10-20T20:13:10.751+08:00  INFO 35009 --- [campus-dash] [son-netty-99-11] o.r.c.pool.MasterConnectionPool          : 4 connections initialized for 127.0.0.1/127.0.0.1:6380
+2026-10-20T20:13:10.870+08:00  INFO 35009 --- [campus-dash] [           main] com.campusdash.it.CreditIT               : Started CreditIT in 0.288 seconds (process running for 36.897)
+2026-10-20T20:13:10.872+08:00  INFO 35009 --- [campus-dash] [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-14 - Starting...
+2026-10-20T20:13:10.881+08:00  INFO 35009 --- [campus-dash] [           main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-14 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6b34d1c3
+2026-10-20T20:13:10.881+08:00  INFO 35009 --- [campus-dash] [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-14 - Start completed.
+2026-10-20T20:13:11.492+08:00  INFO 35009 --- [campus-dash] [           main] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.campusdash.it.PublishEscrowIT]: PublishEscrowIT does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2026-10-20T20:13:11.493+08:00  INFO 35009 --- [campus-dash] [           main] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.campusdash.CampusDashApplication for test class com.campusdash.it.PublishEscrowIT
+2026-10-20T20:13:11.579+08:00  INFO 35009 --- [campus-dash] [           main] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.campusdash.CampusDashApplication for test class com.campusdash.it.CacheDoubleDeleteControlIT
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.5.8)
+
+2026-10-20T20:13:11.597+08:00  INFO 35009 --- [campus-dash] [           main] c.c.it.CacheDoubleDeleteControlIT        : Starting CacheDoubleDeleteControlIT using Java 23.0.2 with PID 35009 (started by haojunpan in /Users/haojunpan/Desktop/????/project/ai/ai-agents-from-zero/????-????????/????-????/????/campus-dash-backend/dash-bootstrap)
+2026-10-20T20:13:11.597+08:00  INFO 35009 --- [campus-dash] [           main] c.c.it.CacheDoubleDeleteControlIT        : No active profile set, falling back to 1 default profile: "default"
+2026-10-20T20:13:11.755+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2026-10-20T20:13:11.756+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2026-10-20T20:13:11.761+08:00  INFO 35009 --- [campus-dash] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 4 ms. Found 0 Redis repository interfaces.
+2026-10-20T20:13:11.800+08:00  INFO 35009 --- [campus-dash] [           main] org.redisson.Version                     : Redisson 3.22.0
+2026-10-20T20:13:11.802+08:00  INFO 35009 --- [campus-dash] [son-netty-105-4] o.r.c.pool.MasterPubSubConnectionPool    : 1 connections initialized for 127.0.0.1/127.0.0.1:6380
+2026-10-20T20:13:11.805+08:00  INFO 35009 --- [campus-dash] [on-netty-105-11] o.r.c.pool.MasterConnectionPool          : 4 connections initialized for 127.0.0.1/127.0.0.1:6380
+2026-10-20T20:13:11.866+08:00  INFO 35009 --- [campus-dash] [           main] c.c.it.CacheDoubleDeleteControlIT        : Started CacheDoubleDeleteControlIT in 0.284 seconds (process running for 37.893)
+2026-10-20T20:13:11.868+08:00  INFO 35009 --- [campus-dash] [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-15 - Starting...
+2026-10-20T20:13:11.871+08:00  INFO 35009 --- [campus-dash] [           main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-15 - Added connection com.mysql.cj.jdbc.ConnectionImpl@43d53d54
+2026-10-20T20:13:11.871+08:00  INFO 35009 --- [campus-dash] [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-15 - Start completed.
+20:13:24.075 [main] WARN io.netty.resolver.dns.DnsServerAddressStreamProviders -- Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+20:13:25.606 [main] INFO com.campusdash.worker.TimeoutTransferConsumer -- 超时消息消费者已启动 topic=grab-timeout-it-50267244ef6d491c group=grab-timeout-it-group-50267244ef6d491c
+20:13:28.187 [RocketmqMessageConsumption-1-46] INFO com.campusdash.application.usecase.TimeoutTransferUseCase -- 候选队列为空，任务回退重新开放 errandId=238273400609423360
+20:13:39.172 [RocketmqMessageConsumption-1-54] INFO com.campusdash.application.usecase.TimeoutTransferUseCase -- 任务已流转 errandId=238273411736911872 round=1 -> nextRunner=2002
+20:13:43.163 [RocketmqMessageConsumption-1-58] INFO com.campusdash.application.usecase.TimeoutTransferUseCase -- 候选队列为空，任务回退重新开放 errandId=238273411736911872
+20:13:45.158 [main] WARN com.campusdash.application.usecase.TimeoutTransferUseCase -- 超时消息发送失败，留待 worker 重发 msgKey=timeout:238273482469654528:0
+java.lang.IllegalStateException: 定时消息发送失败 msgKey=timeout:238273482469654528:0
+	at com.campusdash.infrastructure.config.RocketMqDelayMessageAdapter.send(RocketMqDelayMessageAdapter.java:54)
+	at com.campusdash.application.usecase.TimeoutTransferUseCase.dispatch(TimeoutTransferUseCase.java:218)
+	at com.campusdash.application.usecase.TimeoutTransferUseCase.scheduleFirstTimeout(TimeoutTransferUseCase.java:205)
+	at com.campusdash.worker.RocketMqTimeoutReliabilityIT.unavailableProducerLeavesPendingMessageAndDatabaseScanRecovers(RocketMqTimeoutReliabilityIT.java:136)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:775)
+	at org.junit.platform.commons.support.ReflectionSupport.invokeMethod(ReflectionSupport.java:479)
+	at org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:161)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:152)
+	at org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:91)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(InterceptingExecutableInvoker.java:112)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.lambda$invoke$0(InterceptingExecutableInvoker.java:94)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45)
+	at org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:93)
+	at org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:87)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$7(TestMethodTestDescriptor.java:216)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:212)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:137)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:69)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:156)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:146)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:144)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:143)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:100)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:160)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:146)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:144)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:143)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:100)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:160)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:146)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:144)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:143)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:100)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:201)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:170)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:94)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:59)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:142)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:58)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:103)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:85)
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:47)
+	at org.junit.platform.launcher.core.InterceptingLauncher.lambda$execute$1(InterceptingLauncher.java:39)
+	at org.junit.platform.launcher.core.ClasspathAlignmentCheckingLauncherInterceptor.intercept(ClasspathAlignmentCheckingLauncherInterceptor.java:25)
+	at org.junit.platform.launcher.core.InterceptingLauncher.execute(InterceptingLauncher.java:38)
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:47)
+	at org.apache.maven.surefire.junitplatform.LazyLauncher.execute(LazyLauncher.java:56)
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.execute(JUnitPlatformProvider.java:184)
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invokeAllTests(JUnitPlatformProvider.java:148)
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invoke(JUnitPlatformProvider.java:122)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+Caused by: java.lang.IllegalStateException: Producer is not running now
+	at org.apache.rocketmq.client.java.impl.producer.ProducerImpl.send(ProducerImpl.java:361)
+	at org.apache.rocketmq.client.java.impl.producer.ProducerImpl.send(ProducerImpl.java:215)
+	at com.campusdash.infrastructure.config.RocketMqDelayMessageAdapter.send(RocketMqDelayMessageAdapter.java:50)
+	... 77 common frames omitted
+20:13:45.177 [main] INFO com.campusdash.application.usecase.TimeoutTransferUseCase -- 候选队列为空，任务回退重新开放 errandId=238273482469654528
+20:13:45.199 [main] INFO com.campusdash.worker.TimeoutScanJob -- 兜底扫描完成 捞取=1 流转=0 回退=1 跳过=0
+20:14:15.349 [main] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.campusdash.gateway.GatewayHttpIT]: GatewayHttpIT does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+20:14:15.416 [main] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.campusdash.gateway.GatewayApplication for test class com.campusdash.gateway.GatewayHttpIT
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.5.8)
+
+2026-10-20T20:14:15.939+08:00  INFO 35787 --- [campus-dash-gateway] [           main] com.campusdash.gateway.GatewayHttpIT     : Starting GatewayHttpIT using Java 23.0.2 with PID 35787 (started by haojunpan in /Users/haojunpan/Desktop/????/project/ai/ai-agents-from-zero/????-????????/????-????/????/campus-dash-backend/dash-gateway)
+2026-10-20T20:14:15.940+08:00  INFO 35787 --- [campus-dash-gateway] [           main] com.campusdash.gateway.GatewayHttpIT     : No active profile set, falling back to 1 default profile: "default"
+2026-10-20T20:14:16.359+08:00  INFO 35787 --- [campus-dash-gateway] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2026-10-20T20:14:16.360+08:00  INFO 35787 --- [campus-dash-gateway] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2026-10-20T20:14:16.377+08:00  INFO 35787 --- [campus-dash-gateway] [           main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 7 ms. Found 0 Redis repository interfaces.
+2026-10-20T20:14:16.473+08:00  INFO 35787 --- [campus-dash-gateway] [           main] o.s.cloud.context.scope.GenericScope     : BeanFactory id=7c7591b6-4cbd-3670-8719-130dd0ac510e
+2026-10-20T20:14:16.704+08:00 ERROR 35787 --- [campus-dash-gateway] [           main] i.n.r.d.DnsServerAddressStreamProviders  : Unable to load io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'. Use DEBUG level to see the full stack: java.lang.UnsatisfiedLinkError: failed to load the required native library
+2026-10-20T20:14:17.060+08:00  INFO 35787 --- [campus-dash-gateway] [           main] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [After]
+2026-10-20T20:14:17.061+08:00  INFO 35787 --- [campus-dash-gateway] [           main] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [Before]
+2026-10-20T20:14:17.061+08:00  INFO 35787 --- [campus-dash-gateway] [           main] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [Between]
+2026-10-20T20:14:17.061+08:00  INFO 35787 --- [campus-dash-gateway] [           main] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [Cookie]
+2026-10-20T20:14:17.061+08:00  INFO 35787 --- [campus-dash-gateway] [           main] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [Header]
+2026-10-20T20:14:17.061+08:00  INFO 35787 --- [campus-dash-gateway] [           main] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [Host]
+2026-10-20T20:14:17.061+08:00  INFO 35787 --- [campus-dash-gateway] [           main] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [Method]
+2026-10-20T20:14:17.061+08:00  INFO 35787 --- [campus-dash-gateway] [           main] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [Path]
+2026-10-20T20:14:17.061+08:00  INFO 35787 --- [campus-dash-gateway] [           main] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [Query]
+2026-10-20T20:14:17.061+08:00  INFO 35787 --- [campus-dash-gateway] [           main] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [ReadBody]
+2026-10-20T20:14:17.061+08:00  INFO 35787 --- [campus-dash-gateway] [           main] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [RemoteAddr]
+2026-10-20T20:14:17.061+08:00  INFO 35787 --- [campus-dash-gateway] [           main] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [XForwardedRemoteAddr]
+2026-10-20T20:14:17.061+08:00  INFO 35787 --- [campus-dash-gateway] [           main] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [Weight]
+2026-10-20T20:14:17.061+08:00  INFO 35787 --- [campus-dash-gateway] [           main] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [CloudFoundryRouteService]
+2026-10-20T20:14:17.441+08:00  INFO 35787 --- [campus-dash-gateway] [           main] o.s.b.web.embedded.netty.NettyWebServer  : Netty started on port 58922 (http)
+2026-10-20T20:14:17.589+08:00  INFO 35787 --- [campus-dash-gateway] [           main] com.campusdash.gateway.GatewayHttpIT     : Started GatewayHttpIT in 1.985 seconds (process running for 2.666)
+Mockito is currently self-attaching to enable the inline-mock-maker. This will no longer work in future releases of the JDK. Please add Mockito as an agent to your build as described in Mockito's documentation: https://javadoc.io/doc/org.mockito/mockito-core/latest/org.mockito/org/mockito/Mockito.html#0.3
+Java HotSpot(TM) 64-Bit Server VM warning: Sharing is only supported for boot loader classes because bootstrap classpath has been appended
+WARNING: A Java agent has been loaded dynamically (/Users/haojunpan/.m2/repository/net/bytebuddy/byte-buddy-agent/1.17.8/byte-buddy-agent-1.17.8.jar)
+WARNING: If a serviceability tool is in use, please run with -XX:+EnableDynamicAgentLoading to hide this warning
+WARNING: If a serviceability tool is not in use, please run with -Djdk.instrument.traceUsage for more information
+WARNING: Dynamic loading of agents will be disallowed by default in a future release
